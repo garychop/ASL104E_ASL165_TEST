@@ -1,0 +1,2333 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libgcc.a(_muldi3.o)
+                              ./ra/fsp/src/bsp/mcu/all/bsp_delay.o (__aeabi_lmul)
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-exit.o)
+                              c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crt0.o (exit)
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+                              c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-exit.o) (__stdio_exit_handler)
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-fwalk.o)
+                              c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o) (_fwalk_sglue)
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-stdio.o)
+                              c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o) (__sread)
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-memset.o)
+                              c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crt0.o (memset)
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-closer.o)
+                              c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-stdio.o) (_close_r)
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-reent.o)
+                              c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-closer.o) (errno)
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-impure.o)
+                              c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-reent.o) (_impure_ptr)
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lseekr.o)
+                              c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-stdio.o) (_lseek_r)
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-readr.o)
+                              c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-stdio.o) (_read_r)
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-writer.o)
+                              c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-stdio.o) (_write_r)
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-errno.o)
+                              ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o (__errno)
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-init.o)
+                              c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crt0.o (__libc_init_array)
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+                              c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+                              ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o (memcpy)
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-freer.o)
+                              c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-reent.o) (_free_r)
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-mallocr.o)
+                              c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o) (_malloc_r)
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-mlock.o)
+                              c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-freer.o) (__malloc_lock)
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-fflush.o)
+                              c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o) (_fflush_r)
+c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-sbrkr.o)
+                              c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-mallocr.o) (_sbrk_r)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crti.o
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crti.o
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crti.o
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtbegin.o
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtbegin.o
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtbegin.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtbegin.o
+ .data.__dso_handle
+                0x00000000        0x4 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtbegin.o
+ .text          0x00000000       0x80 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crt0.o
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crt0.o
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crt0.o
+ .debug_line_str
+                0x00000000       0xe7 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x20 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crt0.o
+ .text          0x00000000        0x0 ./src/ASL165_Handler_entry.o
+ .data          0x00000000        0x0 ./src/ASL165_Handler_entry.o
+ .bss           0x00000000        0x0 ./src/ASL165_Handler_entry.o
+ .text          0x00000000        0x0 ./src/hal_entry.o
+ .data          0x00000000        0x0 ./src/hal_entry.o
+ .bss           0x00000000        0x0 ./src/hal_entry.o
+ .text.hal_entry
+                0x00000000        0x4 ./src/hal_entry.o
+ .text          0x00000000        0x0 ./ra_gen/ASL165_Handler.o
+ .data          0x00000000        0x0 ./ra_gen/ASL165_Handler.o
+ .bss           0x00000000        0x0 ./ra_gen/ASL165_Handler.o
+ .text          0x00000000        0x0 ./ra_gen/common_data.o
+ .data          0x00000000        0x0 ./ra_gen/common_data.o
+ .bss           0x00000000        0x0 ./ra_gen/common_data.o
+ .rodata.g_ioport
+                0x00000000        0xc ./ra_gen/common_data.o
+ .text          0x00000000        0x0 ./ra_gen/hal_data.o
+ .data          0x00000000        0x0 ./ra_gen/hal_data.o
+ .bss           0x00000000        0x0 ./ra_gen/hal_data.o
+ .text          0x00000000        0x0 ./ra_gen/main.o
+ .data          0x00000000        0x0 ./ra_gen/main.o
+ .bss           0x00000000        0x0 ./ra_gen/main.o
+ .text          0x00000000        0x0 ./ra_gen/pin_data.o
+ .data          0x00000000        0x0 ./ra_gen/pin_data.o
+ .bss           0x00000000        0x0 ./ra_gen/pin_data.o
+ .text          0x00000000        0x0 ./ra_gen/vector_data.o
+ .data          0x00000000        0x0 ./ra_gen/vector_data.o
+ .bss           0x00000000        0x0 ./ra_gen/vector_data.o
+ .debug_info    0x00000000       0x79 ./ra_gen/vector_data.o
+ .debug_abbrev  0x00000000       0x26 ./ra_gen/vector_data.o
+ .debug_aranges
+                0x00000000       0x18 ./ra_gen/vector_data.o
+ .debug_line    0x00000000       0x38 ./ra_gen/vector_data.o
+ .debug_str     0x00000000      0x1a7 ./ra_gen/vector_data.o
+ .comment       0x00000000       0x56 ./ra_gen/vector_data.o
+ .ARM.attributes
+                0x00000000       0x30 ./ra_gen/vector_data.o
+ .text          0x00000000        0x0 ./ra/fsp/src/rm_freertos_port/port.o
+ .data          0x00000000        0x0 ./ra/fsp/src/rm_freertos_port/port.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/rm_freertos_port/port.o
+ .text.vPortEndScheduler
+                0x00000000        0x4 ./ra/fsp/src/rm_freertos_port/port.o
+ .text.vPortValidateInterruptPriority
+                0x00000000       0x20 ./ra/fsp/src/rm_freertos_port/port.o
+ .text          0x00000000        0x0 ./ra/fsp/src/r_ioport/r_ioport.o
+ .data          0x00000000        0x0 ./ra/fsp/src/r_ioport/r_ioport.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_Close
+                0x00000000        0x8 ./ra/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PinRead
+                0x00000000       0x24 ./ra/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PortRead
+                0x00000000       0x18 ./ra/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PortWrite
+                0x00000000       0x20 ./ra/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PinWrite
+                0x00000000       0x28 ./ra/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PortDirectionSet
+                0x00000000       0x24 ./ra/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PortEventInputRead
+                0x00000000       0x18 ./ra/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PinEventInputRead
+                0x00000000       0x2c ./ra/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PortEventOutputWrite
+                0x00000000       0x20 ./ra/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PinEventOutputWrite
+                0x00000000       0x38 ./ra/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PinsCfg
+                0x00000000        0xc ./ra/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PinCfg
+                0x00000000       0x94 ./ra/fsp/src/r_ioport/r_ioport.o
+ .rodata.g_ioport_on_ioport
+                0x00000000       0x34 ./ra/fsp/src/r_ioport/r_ioport.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+ .debug_info    0x00000000       0x79 ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+ .debug_abbrev  0x00000000       0x26 ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+ .debug_aranges
+                0x00000000       0x18 ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+ .debug_line    0x00000000       0x48 ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+ .debug_str     0x00000000      0x1b7 ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+ .comment       0x00000000       0x56 ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+ .ARM.attributes
+                0x00000000       0x30 ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.bsp_prv_operating_mode_set
+                0x00000000       0x8c ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.prv_clock_dividers_set
+                0x00000000        0xc ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.bsp_prv_clock_set
+                0x00000000       0x8c ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.R_BSP_OctaclkUpdate
+                0x00000000        0x4 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.R_BSP_SourceClockHzGet
+                0x00000000       0x10 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .text.R_FSP_VersionGet
+                0x00000000        0xc ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .text.bsp_init_internal
+                0x00000000        0x4 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .text.bsp_prv_software_delay_loop
+                0x00000000        0x8 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .text.R_BSP_SoftwareDelay
+                0x00000000       0x5c ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_info    0x00000000      0x1f6 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_abbrev  0x00000000      0x10d ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_loc     0x00000000      0x185 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_aranges
+                0x00000000       0x28 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_ranges  0x00000000       0x18 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_line    0x00000000      0x293 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_str     0x00000000      0x2eb ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .comment       0x00000000       0x56 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_frame   0x00000000       0x3c ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .ARM.attributes
+                0x00000000       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .text.R_BSP_GroupIrqWrite
+                0x00000000       0x10 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_info    0x00000000       0x79 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_abbrev  0x00000000       0x26 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_aranges
+                0x00000000       0x18 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_line    0x00000000       0x46 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_str     0x00000000      0x1b5 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .comment       0x00000000       0x56 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .ARM.attributes
+                0x00000000       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .bss.gp_renesas_isr_context
+                0x00000000       0x80 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .text._sbrk    0x00000000       0x44 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .bss.current_heap_end.0
+                0x00000000        0x4 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_info    0x00000000      0x14b ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_abbrev  0x00000000       0xcc ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_loc     0x00000000       0xf3 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_aranges
+                0x00000000       0x20 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_ranges  0x00000000       0x10 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_line    0x00000000      0x1d1 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_str     0x00000000      0x23f ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .comment       0x00000000       0x56 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_frame   0x00000000       0x28 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .ARM.attributes
+                0x00000000       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_info    0x00000000       0x79 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_abbrev  0x00000000       0x26 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_aranges
+                0x00000000       0x18 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_line    0x00000000       0x49 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_str     0x00000000      0x1b8 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .comment       0x00000000       0x56 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .ARM.attributes
+                0x00000000       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .text.R_BSP_WarmStart
+                0x00000000        0x4 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .text          0x00000000        0x0 ./ra/board/ra2l1_ek/board_init.o
+ .data          0x00000000        0x0 ./ra/board/ra2l1_ek/board_init.o
+ .bss           0x00000000        0x0 ./ra/board/ra2l1_ek/board_init.o
+ .text          0x00000000        0x0 ./ra/board/ra2l1_ek/board_leds.o
+ .data          0x00000000        0x0 ./ra/board/ra2l1_ek/board_leds.o
+ .bss           0x00000000        0x0 ./ra/board/ra2l1_ek/board_leds.o
+ .text          0x00000000        0x0 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .data          0x00000000        0x0 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .bss           0x00000000        0x0 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .rodata.xEventGroupClearBits.part.0.str1.4
+                0x00000000       0x5a ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .text.xEventGroupClearBits.part.0
+                0x00000000       0x24 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .rodata.xEventGroupCreateStatic.str1.4
+                0x00000000       0x34 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .text.xEventGroupCreateStatic
+                0x00000000       0x5c ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .rodata.xEventGroupWaitBits.str1.4
+                0x00000000       0x9f ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .text.xEventGroupWaitBits
+                0x00000000      0x174 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .text.xEventGroupClearBits
+                0x00000000       0x48 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .text.xEventGroupGetBitsFromISR
+                0x00000000       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .rodata.xEventGroupSetBits.str1.4
+                0x00000000       0x24 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .text.xEventGroupSetBits
+                0x00000000       0xd8 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .text.xEventGroupSync
+                0x00000000      0x128 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .rodata.vEventGroupDelete.str1.4
+                0x00000000       0x72 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .text.vEventGroupDelete
+                0x00000000       0x6c ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .rodata.xEventGroupGetStaticBuffer.str1.4
+                0x00000000       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .text.xEventGroupGetStaticBuffer
+                0x00000000       0x4c ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .text.vEventGroupSetBitsCallback
+                0x00000000        0x8 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .text.vEventGroupClearBitsCallback
+                0x00000000       0x44 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .rodata.__func__.0
+                0x00000000       0x1b ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .rodata.__func__.1
+                0x00000000       0x12 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .rodata.__func__.2
+                0x00000000       0x13 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .rodata.__func__.3
+                0x00000000       0x15 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .rodata.__func__.4
+                0x00000000       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .rodata.__func__.5
+                0x00000000       0x10 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .rodata.__func__.6
+                0x00000000       0x18 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .debug_info    0x00000000     0x12c9 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .debug_abbrev  0x00000000      0x38f ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .debug_loc     0x00000000     0x141e ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .debug_aranges
+                0x00000000       0x70 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .debug_ranges  0x00000000      0x108 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .debug_line    0x00000000      0xb1f ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .debug_str     0x00000000      0x74c ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .comment       0x00000000       0x56 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .debug_frame   0x00000000      0x14c ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .ARM.attributes
+                0x00000000       0x30 ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+ .text          0x00000000        0x0 ./ra/aws/FreeRTOS/FreeRTOS/Source/list.o
+ .data          0x00000000        0x0 ./ra/aws/FreeRTOS/FreeRTOS/Source/list.o
+ .bss           0x00000000        0x0 ./ra/aws/FreeRTOS/FreeRTOS/Source/list.o
+ .text.vListInsertEnd
+                0x00000000       0x18 ./ra/aws/FreeRTOS/FreeRTOS/Source/list.o
+ .text          0x00000000        0x0 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .data          0x00000000        0x0 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .bss           0x00000000        0x0 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .text.vQueueUnregisterQueue.part.0
+                0x00000000       0x24 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.xQueueGenericGetStaticBuffers.str1.4
+                0x00000000        0xf ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .text.xQueueGenericGetStaticBuffers
+                0x00000000       0x54 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.xQueueGenericSendFromISR.str1.4
+                0x00000000       0x22 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .text.xQueueGenericSendFromISR
+                0x00000000      0x138 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .text.xQueueGiveFromISR
+                0x00000000      0x10c ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .text.xQueuePeek
+                0x00000000      0x1bc ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.xQueueReceiveFromISR.str1.4
+                0x00000000       0x76 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .text.xQueueReceiveFromISR
+                0x00000000      0x100 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.xQueuePeekFromISR.str1.4
+                0x00000000       0x19 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .text.xQueuePeekFromISR
+                0x00000000       0xac ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .text.uxQueueMessagesWaiting
+                0x00000000       0x34 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .text.uxQueueSpacesAvailable
+                0x00000000       0x38 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000       0x28 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .text.vQueueDelete
+                0x00000000       0x54 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .text.uxQueueGetQueueItemSize
+                0x00000000        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .text.uxQueueGetQueueLength
+                0x00000000        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000       0x2c ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x00000000       0x30 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .text.pcQueueGetName
+                0x00000000       0x4c ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .text.vQueueUnregisterQueue
+                0x00000000       0x38 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.__func__.0
+                0x00000000       0x16 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.__func__.1
+                0x00000000        0xf ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.__func__.3
+                0x00000000       0x19 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.__func__.4
+                0x00000000       0x1a ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.__func__.5
+                0x00000000        0xd ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.__func__.6
+                0x00000000       0x1e ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.__func__.7
+                0x00000000       0x17 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.__func__.8
+                0x00000000       0x17 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.__func__.9
+                0x00000000       0x12 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.__func__.10
+                0x00000000       0x15 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.__func__.11
+                0x00000000        0xb ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.__func__.14
+                0x00000000       0x12 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.__func__.15
+                0x00000000       0x19 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.__func__.18
+                0x00000000       0x1e ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .text          0x00000000        0x0 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .data          0x00000000        0x0 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .bss           0x00000000        0x0 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.prvWriteBytesToBuffer.str1.4
+                0x00000000       0xb5 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.prvWriteBytesToBuffer
+                0x00000000       0xb8 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.prvWriteMessageToBuffer
+                0x00000000       0x4c ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.prvReadBytesFromBuffer.str1.4
+                0x00000000       0x4c ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.prvReadBytesFromBuffer
+                0x00000000       0x90 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.prvReadMessageFromBuffer
+                0x00000000       0x4c ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.prvInitialiseNewStreamBuffer.part.0.str1.4
+                0x00000000       0x45 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.prvInitialiseNewStreamBuffer.part.0
+                0x00000000       0x24 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.xStreamBufferGenericCreateStatic.str1.4
+                0x00000000       0xa6 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.xStreamBufferGenericCreateStatic
+                0x00000000      0x108 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.xStreamBufferGetStaticBuffers.str1.4
+                0x00000000       0x42 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.xStreamBufferGetStaticBuffers
+                0x00000000       0x7c ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.vStreamBufferDelete.str1.4
+                0x00000000       0x2d ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.vStreamBufferDelete
+                0x00000000       0x5c ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.xStreamBufferReset
+                0x00000000       0x7c ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.xStreamBufferSetTriggerLevel
+                0x00000000       0x44 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.xStreamBufferSpacesAvailable
+                0x00000000       0x40 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.xStreamBufferBytesAvailable
+                0x00000000       0x38 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.xStreamBufferSend.str1.4
+                0x00000000       0x62 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.xStreamBufferSend
+                0x00000000      0x178 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.xStreamBufferSendFromISR
+                0x00000000       0xc4 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.xStreamBufferReceive.str1.4
+                0x00000000       0x41 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.xStreamBufferReceive
+                0x00000000      0x124 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.xStreamBufferNextMessageLengthBytes.str1.4
+                0x00000000       0x15 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.xStreamBufferNextMessageLengthBytes
+                0x00000000       0x7c ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.xStreamBufferReceiveFromISR
+                0x00000000       0xa8 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.xStreamBufferIsEmpty
+                0x00000000       0x30 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.xStreamBufferIsFull
+                0x00000000       0x50 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.xStreamBufferSendCompletedFromISR
+                0x00000000       0x58 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text.xStreamBufferReceiveCompletedFromISR
+                0x00000000       0x58 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.__func__.0
+                0x00000000       0x25 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.__func__.1
+                0x00000000       0x22 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.__func__.2
+                0x00000000       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.__func__.3
+                0x00000000       0x15 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.__func__.4
+                0x00000000       0x1c ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.__func__.5
+                0x00000000       0x24 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.__func__.6
+                0x00000000       0x17 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.__func__.7
+                0x00000000       0x15 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.__func__.8
+                0x00000000       0x19 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.__func__.9
+                0x00000000       0x16 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.__func__.11
+                0x00000000       0x12 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.__func__.12
+                0x00000000       0x1c ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.__func__.13
+                0x00000000       0x1d ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.__func__.14
+                0x00000000       0x1d ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.__func__.15
+                0x00000000       0x13 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.__func__.16
+                0x00000000       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.__func__.17
+                0x00000000       0x1e ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.__func__.18
+                0x00000000       0x1d ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .rodata.__func__.19
+                0x00000000       0x21 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .debug_info    0x00000000     0x245f ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .debug_abbrev  0x00000000      0x3a0 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .debug_loc     0x00000000     0x2862 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .debug_aranges
+                0x00000000       0xc0 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .debug_ranges  0x00000000      0x148 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .debug_line    0x00000000     0x139e ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .debug_str     0x00000000      0x9af ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .comment       0x00000000       0x56 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .debug_frame   0x00000000      0x2a0 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .ARM.attributes
+                0x00000000       0x30 ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+ .text          0x00000000        0x0 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .data          0x00000000        0x0 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .bss           0x00000000        0x0 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.prvTaskIsTaskSuspended.part.0
+                0x00000000       0x24 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.vTaskDelete
+                0x00000000       0xf8 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.uxTaskPriorityGet
+                0x00000000       0x20 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.uxTaskPriorityGetFromISR
+                0x00000000       0x28 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.vTaskPrioritySet.str1.4
+                0x00000000       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.vTaskPrioritySet
+                0x00000000      0x110 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.vTaskResume.str1.4
+                0x00000000        0xe ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.vTaskResume
+                0x00000000       0xcc ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.xTaskResumeFromISR
+                0x00000000       0xec ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.vTaskEndScheduler
+                0x00000000       0x1c ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.xTaskDelayUntil.str1.4
+                0x00000000       0x2c ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.xTaskDelayUntil
+                0x00000000       0xd0 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x00000000       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x00000000        0xc ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.pcTaskGetName.str1.4
+                0x00000000        0x6 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.pcTaskGetName
+                0x00000000       0x38 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.xTaskGetStaticBuffers.str1.4
+                0x00000000       0x3d ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.xTaskGetStaticBuffers
+                0x00000000       0x60 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.xTaskCatchUpTicks
+                0x00000000       0x54 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.vTaskSuspend
+                0x00000000      0x104 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000       0x94 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.vTaskRemoveFromUnorderedEventList
+                0x00000000       0xec ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.vTaskSetTimeOutState
+                0x00000000       0x48 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.vTaskSetThreadLocalStoragePointer.str1.4
+                0x00000000       0x15 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.vTaskSetThreadLocalStoragePointer
+                0x00000000       0x40 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.pvTaskGetThreadLocalStoragePointer
+                0x00000000       0x20 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.xTaskGetCurrentTaskHandle
+                0x00000000        0xc ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.uxTaskResetEventItemValue
+                0x00000000       0x1c ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.ulTaskGenericNotifyTake.str1.4
+                0x00000000       0x12 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.ulTaskGenericNotifyTake
+                0x00000000       0xa0 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.xTaskGenericNotifyWait
+                0x00000000       0xa8 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.xTaskGenericNotify.str1.4
+                0x00000000       0x83 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.xTaskGenericNotify
+                0x00000000      0x17c ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.xTaskGenericNotify
+                0x00000000       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.xTaskGenericNotifyFromISR
+                0x00000000      0x1b4 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.xTaskGenericNotifyFromISR
+                0x00000000       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.vTaskGenericNotifyGiveFromISR
+                0x00000000      0x158 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.xTaskGenericNotifyStateClear.str1.4
+                0x00000000       0x13 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.xTaskGenericNotifyStateClear
+                0x00000000       0x50 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.ulTaskGenericNotifyValueClear
+                0x00000000       0x4c ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.0
+                0x00000000       0x1e ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.1
+                0x00000000       0x1d ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.2
+                0x00000000       0x1e ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.3
+                0x00000000       0x1a ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.4
+                0x00000000       0x13 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.5
+                0x00000000       0x17 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.6
+                0x00000000       0x18 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.7
+                0x00000000       0x22 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.9
+                0x00000000       0x15 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.10
+                0x00000000       0x22 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.13
+                0x00000000       0x1f ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.17
+                0x00000000       0x12 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.18
+                0x00000000       0x16 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.19
+                0x00000000        0xe ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.22
+                0x00000000       0x13 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.23
+                0x00000000       0x17 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.24
+                0x00000000        0xc ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.25
+                0x00000000        0xd ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.26
+                0x00000000       0x11 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.28
+                0x00000000       0x10 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.29
+                0x00000000        0xc ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text          0x00000000        0x0 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .data          0x00000000        0x0 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .bss           0x00000000        0x0 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .text.xTimerGetReloadMode.part.0
+                0x00000000       0x24 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .rodata.xTimerCreateStatic.str1.4
+                0x00000000       0x48 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .text.xTimerCreateStatic
+                0x00000000       0xb8 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .text.xTimerGenericCommand
+                0x00000000       0x78 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .rodata.xTimerGetTimerDaemonTaskHandle.str1.4
+                0x00000000       0x24 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .text.xTimerGetTimerDaemonTaskHandle
+                0x00000000       0x30 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .text.xTimerGetPeriod
+                0x00000000       0x28 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .text.vTimerSetReloadMode
+                0x00000000       0x44 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .text.xTimerGetReloadMode
+                0x00000000       0x20 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .text.uxTimerGetReloadMode
+                0x00000000       0x20 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .text.xTimerGetExpiryTime
+                0x00000000       0x28 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .rodata.xTimerGetStaticBuffer.str1.4
+                0x00000000       0x1e ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .text.xTimerGetStaticBuffer
+                0x00000000       0x38 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .text.pcTimerGetName
+                0x00000000       0x28 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .text.xTimerIsTimerActive
+                0x00000000       0x3c ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .text.pvTimerGetTimerID
+                0x00000000       0x34 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .text.vTimerSetTimerID
+                0x00000000       0x34 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .rodata.__func__.0
+                0x00000000       0x11 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .rodata.__func__.1
+                0x00000000       0x12 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .rodata.__func__.2
+                0x00000000       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .rodata.__func__.3
+                0x00000000        0xf ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .rodata.__func__.4
+                0x00000000       0x16 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .rodata.__func__.5
+                0x00000000       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .rodata.__func__.6
+                0x00000000       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .rodata.__func__.7
+                0x00000000       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .rodata.__func__.8
+                0x00000000       0x10 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .rodata.__func__.9
+                0x00000000       0x1f ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .rodata.__func__.10
+                0x00000000       0x15 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .rodata.__func__.11
+                0x00000000       0x16 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .rodata.__func__.12
+                0x00000000       0x13 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libgcc.a(_muldi3.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libgcc.a(_muldi3.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libgcc.a(_muldi3.o)
+ .text.__muldi3
+                0x00000000       0x5c c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libgcc.a(_muldi3.o)
+ .debug_frame   0x00000000       0x34 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libgcc.a(_muldi3.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libgcc.a(_muldi3.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-exit.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-exit.o)
+ .text.exit     0x00000000       0x24 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-exit.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+ .text.std      0x00000000       0x6c c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00000000       0x1c c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00000000       0x3c c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x18 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x18 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00000000       0x3c c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000       0x10 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000       0x10 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xa4 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x2c c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x1c c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x1c c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+ .bss.__sf      0x00000000      0x138 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+ .bss.__stdio_exit_handler
+                0x00000000        0x4 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+ .debug_frame   0x00000000      0x138 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x00000000       0x38 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-fwalk.o)
+ .debug_frame   0x00000000       0x34 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x28 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x38 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x2c c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-stdio.o)
+ .text.__sclose
+                0x00000000        0xc c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-stdio.o)
+ .debug_frame   0x00000000       0x90 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-memset.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-memset.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-closer.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-closer.o)
+ .text._close_r
+                0x00000000       0x20 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-closer.o)
+ .debug_frame   0x00000000       0x2c c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-closer.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xa8 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-reent.o)
+ .bss.errno     0x00000000        0x4 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-reent.o)
+ .debug_frame   0x00000000       0x2c c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-impure.o)
+ .data._impure_data
+                0x00000000       0x4c c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x24 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-readr.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x24 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-readr.o)
+ .debug_frame   0x00000000       0x2c c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-readr.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-writer.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-writer.o)
+ .text._write_r
+                0x00000000       0x24 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-writer.o)
+ .debug_frame   0x00000000       0x2c c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-writer.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-errno.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-errno.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-errno.o)
+ .text.__errno  0x00000000        0xc c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-errno.o)
+ .debug_frame   0x00000000       0x20 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-errno.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x50 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-init.o)
+ .debug_frame   0x00000000       0x2c c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x2 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x2 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .debug_frame   0x00000000       0xb0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-freer.o)
+ .text._free_r  0x00000000       0x90 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-freer.o)
+ .debug_frame   0x00000000       0x2c c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x44 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x100 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x00000000        0x4 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_free_list
+                0x00000000        0x4 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x00000000       0x50 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000       0x10 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000       0x10 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-mlock.o)
+ .debug_frame   0x00000000       0x40 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x114 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x50 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x2c c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-fflush.o)
+ .debug_frame   0x00000000       0x68 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x20 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtend.o
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtend.o
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtend.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtend.o
+ .text          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtn.o
+ .data          0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtn.o
+ .bss           0x00000000        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ITCM             0x00000000         0x00000000         xr
+DTCM             0x00000000         0x00000000         xrw
+FLASH            0x00000000         0x00040000         xr
+RAM              0x20000000         0x00008000         xrw
+DATA_FLASH       0x40100000         0x00002000         xr
+QSPI_FLASH       0x60000000         0x00000000         xr
+OSPI_DEVICE_0    0x80020000         0x00000000         xr
+OSPI_DEVICE_1    0x80030000         0x00000000         xr
+OSPI_DEVICE_0_RAM 0x80020000         0x00000000         xrw
+OSPI_DEVICE_1_RAM 0x80030000         0x00000000         xrw
+SDRAM            0x80010000         0x00000000         xrw
+OPTION_SETTING   0x00000000         0x00000000         r
+OPTION_SETTING_OFS 0x00000000         0x00000018         r
+OPTION_SETTING_SAS 0x00000034         0x00000000         r
+OPTION_SETTING_S 0x80000000         0x00000000         r
+ID_CODE          0x01010018         0x00000020         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crti.o
+LOAD c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtbegin.o
+LOAD c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crt0.o
+START GROUP
+LOAD ./src/ASL165_Handler_entry.o
+LOAD ./src/hal_entry.o
+LOAD ./ra_gen/ASL165_Handler.o
+LOAD ./ra_gen/common_data.o
+LOAD ./ra_gen/hal_data.o
+LOAD ./ra_gen/main.o
+LOAD ./ra_gen/pin_data.o
+LOAD ./ra_gen/vector_data.o
+LOAD ./ra/fsp/src/rm_freertos_port/port.o
+LOAD ./ra/fsp/src/r_ioport/r_ioport.o
+LOAD ./ra/fsp/src/bsp/mcu/ra2l1/bsp_power.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+LOAD ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+LOAD ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+LOAD ./ra/board/ra2l1_ek/board_init.o
+LOAD ./ra/board/ra2l1_ek/board_leds.o
+LOAD ./ra/aws/FreeRTOS/FreeRTOS/Source/event_groups.o
+LOAD ./ra/aws/FreeRTOS/FreeRTOS/Source/list.o
+LOAD ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+LOAD ./ra/aws/FreeRTOS/FreeRTOS/Source/stream_buffer.o
+LOAD ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+LOAD ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+END GROUP
+START GROUP
+LOAD c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libgcc.a
+LOAD c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a
+LOAD c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libgcc.a
+LOAD c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libc_nano.a
+END GROUP
+LOAD c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtend.o
+LOAD c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtn.o
+                0x20000000                        RAM_START = 0x20000000
+                0x00008000                        RAM_LENGTH = 0x8000
+                0x00000000                        FLASH_START = 0x0
+                0x00040000                        FLASH_LENGTH = 0x40000
+                0x40100000                        DATA_FLASH_START = 0x40100000
+                0x00002000                        DATA_FLASH_LENGTH = 0x2000
+                0x00000000                        OPTION_SETTING_START = 0x0
+                0x00000000                        OPTION_SETTING_LENGTH = 0x0
+                0x80000000                        OPTION_SETTING_S_START = 0x80000000
+                0x00000000                        OPTION_SETTING_S_LENGTH = 0x0
+                0x01010018                        ID_CODE_START = 0x1010018
+                0x00000020                        ID_CODE_LENGTH = 0x20
+                0x80010000                        SDRAM_START = 0x80010000
+                0x00000000                        SDRAM_LENGTH = 0x0
+                0x60000000                        QSPI_FLASH_START = 0x60000000
+                0x00000000                        QSPI_FLASH_LENGTH = 0x0
+                0x80020000                        OSPI_DEVICE_0_START = 0x80020000
+                0x00000000                        OSPI_DEVICE_0_LENGTH = 0x0
+                0x80030000                        OSPI_DEVICE_1_START = 0x80030000
+                0x00000000                        OSPI_DEVICE_1_LENGTH = 0x0
+                0x00000000                        QSPI_FLASH_PRV_LENGTH = DEFINED (QSPI_FLASH_SIZE)?ABSOLUTE (QSPI_FLASH_SIZE):ABSOLUTE (QSPI_FLASH_LENGTH)
+                0x00000000                        OSPI_DEVICE_0_PRV_LENGTH = DEFINED (OSPI_DEVICE_0_SIZE)?ABSOLUTE (OSPI_DEVICE_0_SIZE):ABSOLUTE (OSPI_DEVICE_0_LENGTH)
+                0x00000000                        OSPI_DEVICE_1_PRV_LENGTH = DEFINED (OSPI_DEVICE_1_SIZE)?ABSOLUTE (OSPI_DEVICE_1_SIZE):ABSOLUTE (OSPI_DEVICE_1_LENGTH)
+                0x00000000                        __RESERVE_NS_RAM = ((! (DEFINED (PROJECT_NONSECURE)) && DEFINED (RAM_NS_BUFFER_LENGTH)) && (OPTION_SETTING_S_LENGTH != 0x0))
+                0x00000000                        ITCM_START = DEFINED (ITCM_START)?ITCM_START:0x0
+                0x00000000                        ITCM_LENGTH = DEFINED (ITCM_LENGTH)?ITCM_LENGTH:0x0
+                0x00000000                        DTCM_START = DEFINED (DTCM_START)?DTCM_START:0x0
+                0x00000000                        DTCM_LENGTH = DEFINED (DTCM_LENGTH)?DTCM_LENGTH:0x0
+                0x00000000                        RAM_NS_BUFFER_BLOCK_LENGTH = DEFINED (RAM_NS_BUFFER_LENGTH)?ALIGN (RAM_NS_BUFFER_LENGTH, 0x2000):0x0
+                0x00000000                        RAM_NS_BUFFER_LENGTH = DEFINED (RAM_NS_BUFFER_LENGTH)?RAM_NS_BUFFER_LENGTH:0x0
+                0x20008000                        RAM_NS_BUFFER_START = ((RAM_START + RAM_LENGTH) - RAM_NS_BUFFER_LENGTH)
+                0x20008000                        RAM_NS_BUFFER_BLOCK_START = ((RAM_START + RAM_LENGTH) - RAM_NS_BUFFER_BLOCK_LENGTH)
+                0x00000080                        OPTION_SETTING_START_NS = DEFINED (PROJECT_NONSECURE)?OPTION_SETTING_START:(OPTION_SETTING_START + 0x80)
+                0x00000001                        __bl_FSP_BOOTABLE_IMAGE = 0x1
+                0x00000001                        __bln_FSP_BOOTABLE_IMAGE = 0x1
+                0x00000000                        PROJECT_SECURE_OR_FLAT = (((! (DEFINED (PROJECT_NONSECURE)) || DEFINED (PROJECT_SECURE)) && OPTION_SETTING_LENGTH) && ! (DEFINED (FSP_BOOTABLE_IMAGE)))
+                0x00000000                        USE_OPTION_SETTING_NS = (DEFINED (PROJECT_NONSECURE) && ! (DEFINED (FSP_BOOTABLE_IMAGE)))
+                0x00000000                        __bl_FLASH_IMAGE_START = ! (DEFINED (FLASH_BOOTLOADER_LENGTH))?0x0:(FLASH_APPLICATION_IMAGE_NUMBER == 0x1)?((FLASH_START + FLASH_BOOTLOADER_LENGTH) + FLASH_BOOTLOADER_HEADER_LENGTH):((((FLASH_START + FLASH_BOOTLOADER_LENGTH) + FLASH_BOOTLOADER_SCRATCH_LENGTH) + FLASH_APPLICATION_S_LENGTH) + FLASH_BOOTLOADER_HEADER_LENGTH)
+                0x00000000                        __bl_FLASH_IMAGE_LENGTH = ! (DEFINED (FLASH_BOOTLOADER_LENGTH))?0x0:(FLASH_APPLICATION_S_LENGTH - FLASH_BOOTLOADER_HEADER_LENGTH)
+                0x00000000                        __bl_FLASH_IMAGE_END = (__bl_FLASH_IMAGE_START + __bl_FLASH_IMAGE_LENGTH)
+                0x00000000                        __bl_XIP_SECONDARY_FLASH_IMAGE_START = ! (DEFINED (FLASH_BOOTLOADER_LENGTH))?0x0:((FLASH_BOOTLOADER_LENGTH + FLASH_APPLICATION_S_LENGTH) + FLASH_BOOTLOADER_HEADER_LENGTH)
+                0x00000000                        __bl_XIP_SECONDARY_FLASH_IMAGE_END = (__bl_XIP_SECONDARY_FLASH_IMAGE_START + __bl_FLASH_IMAGE_LENGTH)
+                0x00000000                        __bl_FLASH_NS_START = ! (DEFINED (FLASH_BOOTLOADER_LENGTH))?0x0:(FLASH_APPLICATION_NS_LENGTH == 0x0)?__bl_FLASH_IMAGE_END:((__bl_FLASH_IMAGE_START - FLASH_BOOTLOADER_HEADER_LENGTH) + FLASH_APPLICATION_S_LENGTH)
+                0x00000000                        __bl_FLASH_NSC_START = ! (DEFINED (FLASH_BOOTLOADER_LENGTH))?0x0:(FLASH_APPLICATION_NS_LENGTH == 0x0)?__bl_FLASH_IMAGE_END:(__bl_FLASH_IMAGE_END - FLASH_APPLICATION_NSC_LENGTH)
+                0x00000000                        __bl_RAM_NS_START = ! (DEFINED (FLASH_BOOTLOADER_LENGTH))?0x0:(FLASH_APPLICATION_NS_LENGTH == 0x0)?(RAM_START + RAM_LENGTH):((RAM_START + RAM_LENGTH) - RAM_APPLICATION_NS_LENGTH)
+                0x00000000                        __bl_RAM_NSC_START = ! (DEFINED (FLASH_BOOTLOADER_LENGTH))?0x0:(FLASH_APPLICATION_NS_LENGTH == 0x0)?(RAM_START + RAM_LENGTH):(__bl_RAM_NS_START - RAM_APPLICATION_NSC_LENGTH)
+                0x00000000                        __bl_FLASH_NS_IMAGE_START = ! (DEFINED (FLASH_BOOTLOADER_LENGTH))?0x0:(FLASH_APPLICATION_NS_LENGTH == 0x0)?__bl_FLASH_IMAGE_END:(__bl_FLASH_NS_START + FLASH_BOOTLOADER_HEADER_LENGTH_2)
+                0x00000000                        __bln_FLASH_IMAGE_START = (__bl_FLASH_NS_IMAGE_START | ! (DEFINED (NS_OFFSET_START))?0x0:NS_OFFSET_START)
+                0x00000000                        __bln_FLASH_IMAGE_LENGTH = ! (DEFINED (FLASH_BOOTLOADER_LENGTH))?0x0:(FLASH_APPLICATION_NS_LENGTH == 0x0)?__bl_FLASH_IMAGE_END:(FLASH_APPLICATION_NS_LENGTH - FLASH_BOOTLOADER_HEADER_LENGTH_2)
+                0x00000000                        XIP_SECONDARY_SLOT_IMAGE = DEFINED (XIP_SECONDARY_SLOT_IMAGE)?XIP_SECONDARY_SLOT_IMAGE:0x0
+                0x00000000                        FLASH_ORIGIN = ! (DEFINED (FLASH_IMAGE_START))?FLASH_START:(XIP_SECONDARY_SLOT_IMAGE == 0x1)?XIP_SECONDARY_FLASH_IMAGE_START:FLASH_IMAGE_START
+                0x00040000                        LIMITED_FLASH_LENGTH = DEFINED (FLASH_IMAGE_LENGTH)?FLASH_IMAGE_LENGTH:DEFINED (FLASH_BOOTLOADER_LENGTH)?FLASH_BOOTLOADER_LENGTH:FLASH_LENGTH
+                0x00000034                        OPTION_SETTING_SAS_SIZE = 0x34
+                0x00000000                        OPTION_SETTING_SAS_LENGTH = ! (DEFINED (OPTION_SETTING_LENGTH))?0x0:(OPTION_SETTING_LENGTH == 0x0)?0x0:(OPTION_SETTING_LENGTH - OPTION_SETTING_SAS_SIZE)
+START GROUP
+LOAD c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libgcc.a
+LOAD c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libc.a
+LOAD c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libm.a
+END GROUP
+
+.text           0x00000000     0x32b4
+                0x00000000                        __tz_FLASH_S = ABSOLUTE (FLASH_START)
+                0x00000000                        __ROM_Start = .
+ *(.fixed_vectors*)
+ .fixed_vectors
+                0x00000000       0x40 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x00000000                __Vectors
+ *(.application_vectors*)
+                0x00000040                        __Vectors_End = .
+                0x00000400                        . = (OPTION_SETTING_LENGTH > 0x0)?.:(__ROM_Start + 0x400)
+ *fill*         0x00000040      0x3c0 ff
+ *(.rom_registers*)
+ .rom_registers
+                0x00000400       0x3c ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+                0x00000500                        . = (OPTION_SETTING_LENGTH > 0x0)?.:(__ROM_Start + 0x500)
+ *fill*         0x0000043c       0xc4 ff
+                0x00000500                        . = ALIGN (0x80)
+ *(.mcuboot_sce9_key*)
+ *(.text*)
+ .text.deregister_tm_clones
+                0x00000500       0x24 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtbegin.o
+ .text.register_tm_clones
+                0x00000524       0x2c c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x00000550       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtbegin.o
+ .text.frame_dummy
+                0x00000580       0x28 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtbegin.o
+ .text.ASL165_Handler_entry
+                0x000005a8      0x1bc ./src/ASL165_Handler_entry.o
+                0x000005a8                ASL165_Handler_entry
+ .text.R_BSP_WarmStart
+                0x00000764       0x30 ./src/hal_entry.o
+                0x00000764                R_BSP_WarmStart
+ .text.ASL165_Handler_func
+                0x00000794       0x10 ./ra_gen/ASL165_Handler.o
+ .text.ASL165_Handler_create
+                0x000007a4       0x64 ./ra_gen/ASL165_Handler.o
+                0x000007a4                ASL165_Handler_create
+ .text.g_common_init
+                0x00000808        0x4 ./ra_gen/common_data.o
+                0x00000808                g_common_init
+ .text.g_hal_init
+                0x0000080c        0x8 ./ra_gen/hal_data.o
+                0x0000080c                g_hal_init
+ .text.rtos_startup_err_callback_internal
+                0x00000814        0x4 ./ra_gen/main.o
+                0x00000814                rtos_startup_err_callback
+                0x00000814                rtos_startup_err_callback_internal
+ .text.rtos_startup_common_init
+                0x00000818       0x6c ./ra_gen/main.o
+                0x00000818                rtos_startup_common_init
+ .text.startup.main
+                0x00000884       0x4c ./ra_gen/main.o
+                0x00000884                main
+ .text.vApplicationGetIdleTaskMemory
+                0x000008d0       0x1c ./ra_gen/main.o
+                0x000008d0                vApplicationGetIdleTaskMemory
+ .text.vApplicationGetTimerTaskMemory
+                0x000008ec       0x1c ./ra_gen/main.o
+                0x000008ec                vApplicationGetTimerTaskMemory
+ .text.prvTaskExitError
+                0x00000908        0x4 ./ra/fsp/src/rm_freertos_port/port.o
+ .text.SVC_Handler
+                0x0000090c       0x1c ./ra/fsp/src/rm_freertos_port/port.o
+                0x0000090c                SVC_Handler
+ .text.PendSV_Handler
+                0x00000928       0x28 ./ra/fsp/src/rm_freertos_port/port.o
+                0x00000928                PendSV_Handler
+ .text.rm_freertos_port_restore_task_stackless
+                0x00000950       0x28 ./ra/fsp/src/rm_freertos_port/port.o
+                0x00000950                rm_freertos_port_restore_task_stackless
+ .text.SysTick_Handler
+                0x00000978       0x28 ./ra/fsp/src/rm_freertos_port/port.o
+                0x00000978                SysTick_Handler
+ .text.vPortSVCHandler_C
+                0x000009a0       0x38 ./ra/fsp/src/rm_freertos_port/port.o
+                0x000009a0                vPortSVCHandler_C
+ .text.pxPortInitialiseStack
+                0x000009d8       0x28 ./ra/fsp/src/rm_freertos_port/port.o
+                0x000009d8                pxPortInitialiseStack
+ .text.vPortEnterCritical
+                0x00000a00       0x58 ./ra/fsp/src/rm_freertos_port/port.o
+                0x00000a00                vPortEnterCritical
+ .text.vPortExitCritical
+                0x00000a58       0x44 ./ra/fsp/src/rm_freertos_port/port.o
+                0x00000a58                vPortExitCritical
+ .text.rm_freertos_port_sleep_preserving_lpm
+                0x00000a9c       0x68 ./ra/fsp/src/rm_freertos_port/port.o
+                0x00000a9c                rm_freertos_port_sleep_preserving_lpm
+ .text.vApplicationIdleHook
+                0x00000b04       0x18 ./ra/fsp/src/rm_freertos_port/port.o
+                0x00000b04                vApplicationIdleHook
+ .text.vPortSetupTimerInterrupt
+                0x00000b1c       0x48 ./ra/fsp/src/rm_freertos_port/port.o
+                0x00000b1c                vPortSetupTimerInterrupt
+ .text.xPortStartScheduler
+                0x00000b64       0x2c ./ra/fsp/src/rm_freertos_port/port.o
+                0x00000b64                xPortStartScheduler
+ .text.r_ioport_pins_config
+                0x00000b90       0xdc ./ra/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_Open
+                0x00000c6c       0x18 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00000c6c                R_IOPORT_Open
+ .text.SystemCoreClockUpdate
+                0x00000c84       0x2c ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x00000c84                SystemCoreClockUpdate
+ .text.bsp_clock_init
+                0x00000cb0      0x108 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x00000cb0                bsp_clock_init
+ .text.R_BSP_Init_RTC
+                0x00000db8       0x10 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x00000db8                R_BSP_Init_RTC
+ .text.__assert_func
+                0x00000dc8        0x4 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+                0x00000dc8                __assert_func
+ .text.NMI_Handler
+                0x00000dcc       0x4c ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+                0x00000dcc                NMI_Handler
+ .text.bsp_irq_cfg
+                0x00000e18       0x28 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x00000e18                bsp_irq_cfg
+ .text.R_BSP_RegisterProtectEnable
+                0x00000e40       0x54 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+                0x00000e40                R_BSP_RegisterProtectEnable
+ .text.R_BSP_RegisterProtectDisable
+                0x00000e94       0x4c ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+                0x00000e94                R_BSP_RegisterProtectDisable
+ .text.Default_Handler
+                0x00000ee0        0x4 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x00000ee0                HardFault_Handler
+                0x00000ee0                UsageFault_Handler
+                0x00000ee0                SecureFault_Handler
+                0x00000ee0                Default_Handler
+                0x00000ee0                MemManage_Handler
+                0x00000ee0                BusFault_Handler
+                0x00000ee0                DebugMon_Handler
+ .text.Reset_Handler
+                0x00000ee4        0xc ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x00000ee4                Reset_Handler
+ .text.SystemInit
+                0x00000ef0      0x144 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x00000ef0                SystemInit
+ .text.bsp_init
+                0x00001034        0x4 ./ra/board/ra2l1_ek/board_init.o
+                0x00001034                bsp_init
+ .text.vListInitialise
+                0x00001038       0x18 ./ra/aws/FreeRTOS/FreeRTOS/Source/list.o
+                0x00001038                vListInitialise
+ .text.vListInitialiseItem
+                0x00001050        0x8 ./ra/aws/FreeRTOS/FreeRTOS/Source/list.o
+                0x00001050                vListInitialiseItem
+ .text.vListInsert
+                0x00001058       0x30 ./ra/aws/FreeRTOS/FreeRTOS/Source/list.o
+                0x00001058                vListInsert
+ .text.uxListRemove
+                0x00001088       0x24 ./ra/aws/FreeRTOS/FreeRTOS/Source/list.o
+                0x00001088                uxListRemove
+ .text.prvCopyDataToQueue
+                0x000010ac       0x58 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .text.prvUnlockQueue
+                0x00001104       0x8c ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .text.xQueueGenericReset
+                0x00001190       0xe8 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+                0x00001190                xQueueGenericReset
+ .text.xQueueGenericCreateStatic
+                0x00001278       0xa4 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+                0x00001278                xQueueGenericCreateStatic
+ .text.xQueueCreateCountingSemaphoreStatic
+                0x0000131c       0x98 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+                0x0000131c                xQueueCreateCountingSemaphoreStatic
+ .text.xQueueGenericSend
+                0x000013b4      0x1e0 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+                0x000013b4                xQueueGenericSend
+ .text.xQueueReceive
+                0x00001594      0x1c0 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+                0x00001594                xQueueReceive
+ .text.xQueueSemaphoreTake
+                0x00001754      0x188 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+                0x00001754                xQueueSemaphoreTake
+ .text.vQueueAddToRegistry
+                0x000018dc       0x6c ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+                0x000018dc                vQueueAddToRegistry
+ .text.vQueueWaitForMessageRestricted
+                0x00001948       0x48 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+                0x00001948                vQueueWaitForMessageRestricted
+ .text.prvAddCurrentTaskToDelayedList
+                0x00001990       0x98 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.prvIdleTask
+                0x00001a28       0x78 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.xTaskIncrementTick.part.0
+                0x00001aa0      0x1ac ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .text.xTaskCreateStatic
+                0x00001c4c      0x288 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+                0x00001c4c                xTaskCreateStatic
+ .text.vTaskStartScheduler
+                0x00001ed4       0xa0 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+                0x00001ed4                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x00001f74       0x10 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+                0x00001f74                vTaskSuspendAll
+ .text.xTaskResumeAll
+                0x00001f84      0x1d4 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+                0x00001f84                xTaskResumeAll
+ .text.vTaskDelay
+                0x00002158       0x5c ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+                0x00002158                vTaskDelay
+ .text.xTaskGetTickCount
+                0x000021b4        0xc ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+                0x000021b4                xTaskGetTickCount
+ .text.xTaskIncrementTick
+                0x000021c0       0x28 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+                0x000021c0                xTaskIncrementTick
+ .text.vTaskSwitchContext
+                0x000021e8       0xa8 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+                0x000021e8                vTaskSwitchContext
+ .text.vTaskPlaceOnEventList
+                0x00002290       0x40 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+                0x00002290                vTaskPlaceOnEventList
+ .text.vTaskPlaceOnEventListRestricted
+                0x000022d0       0x60 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+                0x000022d0                vTaskPlaceOnEventListRestricted
+ .text.xTaskRemoveFromEventList
+                0x00002330       0xec ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+                0x00002330                xTaskRemoveFromEventList
+ .text.vTaskInternalSetTimeOutState
+                0x0000241c       0x1c ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+                0x0000241c                vTaskInternalSetTimeOutState
+ .text.xTaskCheckForTimeOut
+                0x00002438       0xa8 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+                0x00002438                xTaskCheckForTimeOut
+ .text.vTaskMissedYield
+                0x000024e0       0x10 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+                0x000024e0                vTaskMissedYield
+ .text.xTaskGetSchedulerState
+                0x000024f0       0x20 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+                0x000024f0                xTaskGetSchedulerState
+ .text.prvCheckForValidListAndQueue
+                0x00002510       0x7c ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .text.prvProcessExpiredTimer
+                0x0000258c       0x84 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .text.prvTimerTask
+                0x00002610      0x224 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .text.xTimerCreateTimerTask
+                0x00002834       0x7c ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+                0x00002834                xTimerCreateTimerTask
+ .text.memset   0x000028b0       0x10 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-memset.o)
+                0x000028b0                memset
+ .text.memcpy   0x000028c0       0x12 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+                0x000028c0                memcpy
+ *(.version)
+ *fill*         0x000028d2        0x2 ff
+ .version       0x000028d4       0x50 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ *(.init)
+ .init          0x00002924        0x4 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crti.o
+                0x00002924                _init
+ .init          0x00002928        0x8 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtn.o
+ *(.fini)
+ .fini          0x00002930        0x4 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crti.o
+                0x00002930                _fini
+ .fini          0x00002934        0x8 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.ASL165_Handler_create.str1.4
+                0x0000293c        0xf ./ra_gen/ASL165_Handler.o
+ *fill*         0x0000294b        0x1 ff
+ .rodata.ASL165_Handler_parameters
+                0x0000294c        0x4 ./ra_gen/ASL165_Handler.o
+                0x0000294c                ASL165_Handler_parameters
+ .rodata.g_bsp_pin_cfg
+                0x00002950        0xc ./ra_gen/pin_data.o
+                0x00002950                g_bsp_pin_cfg
+ .rodata.g_bsp_pin_cfg_data
+                0x0000295c      0x190 ./ra_gen/pin_data.o
+                0x0000295c                g_bsp_pin_cfg_data
+ .rodata.vPortSVCHandler_C.str1.4
+                0x00002aec       0x3a ./ra/fsp/src/rm_freertos_port/port.o
+ *fill*         0x00002b26        0x2 ff
+ .rodata.vPortEnterCritical.str1.4
+                0x00002b28       0x46 ./ra/fsp/src/rm_freertos_port/port.o
+ *fill*         0x00002b6e        0x2 ff
+ .rodata.vPortExitCritical.str1.4
+                0x00002b70       0x12 ./ra/fsp/src/rm_freertos_port/port.o
+ *fill*         0x00002b82        0x2 ff
+ .rodata.__func__.1
+                0x00002b84       0x12 ./ra/fsp/src/rm_freertos_port/port.o
+ *fill*         0x00002b96        0x2 ff
+ .rodata.__func__.2
+                0x00002b98       0x13 ./ra/fsp/src/rm_freertos_port/port.o
+ *fill*         0x00002bab        0x1 ff
+ .rodata.__func__.3
+                0x00002bac       0x12 ./ra/fsp/src/rm_freertos_port/port.o
+ *fill*         0x00002bbe        0x2 ff
+ .rodata.g_interrupt_event_link_select
+                0x00002bc0       0x20 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x00002bc0                g_interrupt_event_link_select
+ .rodata.g_prcr_masks
+                0x00002be0        0x8 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .rodata.g_bsp_leds
+                0x00002be8        0x8 ./ra/board/ra2l1_ek/board_leds.o
+                0x00002be8                g_bsp_leds
+ .rodata.g_bsp_prv_leds
+                0x00002bf0        0x6 ./ra/board/ra2l1_ek/board_leds.o
+ *fill*         0x00002bf6        0x2 ff
+ .rodata.vQueueUnregisterQueue.part.0.str1.4
+                0x00002bf8       0x33 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ *fill*         0x00002c2b        0x1 ff
+ .rodata.xQueueGenericReset.str1.4
+                0x00002c2c       0x2c ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.xQueueGenericCreateStatic.str1.4
+                0x00002c58       0x37 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ *fill*         0x00002c8f        0x1 ff
+ .rodata.xQueueCreateCountingSemaphoreStatic.str1.4
+                0x00002c90        0x8 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.xQueueGenericSend.str1.4
+                0x00002c98       0xfb ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ *fill*         0x00002d93        0x1 ff
+ .rodata.xQueueGiveFromISR.str1.4
+                0x00002d94       0x7d ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ *fill*         0x00002e11        0x3 ff
+ .rodata.xQueueReceive.str1.4
+                0x00002e14       0x66 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ *fill*         0x00002e7a        0x2 ff
+ .rodata.__func__.2
+                0x00002e7c       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.__func__.12
+                0x00002e90       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.__func__.13
+                0x00002ea4        0xe ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ *fill*         0x00002eb2        0x2 ff
+ .rodata.__func__.16
+                0x00002eb4       0x12 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ *fill*         0x00002ec6        0x2 ff
+ .rodata.__func__.17
+                0x00002ec8       0x24 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .rodata.__func__.19
+                0x00002eec       0x1a ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ *fill*         0x00002f06        0x2 ff
+ .rodata.__func__.20
+                0x00002f08       0x13 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ *fill*         0x00002f1b        0x1 ff
+ .rodata.prvTaskIsTaskSuspended.part.0.str1.4
+                0x00002f1c       0x33 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ *fill*         0x00002f4f        0x1 ff
+ .rodata.xTaskIncrementTick.part.0.str1.4
+                0x00002f50       0x76 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ *fill*         0x00002fc6        0x2 ff
+ .rodata.xTaskCreateStatic.str1.4
+                0x00002fc8       0x69 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ *fill*         0x00003031        0x3 ff
+ .rodata.vTaskDelete.str1.4
+                0x00003034       0x2b ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ *fill*         0x0000305f        0x1 ff
+ .rodata.vTaskStartScheduler.str1.4
+                0x00003060       0x1a ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ *fill*         0x0000307a        0x2 ff
+ .rodata.xTaskResumeAll.str1.4
+                0x0000307c       0x2b ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ *fill*         0x000030a7        0x1 ff
+ .rodata.vTaskSwitchContext.str1.4
+                0x000030a8        0xe ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ *fill*         0x000030b6        0x2 ff
+ .rodata.vTaskPlaceOnEventList.str1.4
+                0x000030b8        0xc ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.xTaskRemoveFromEventList.str1.4
+                0x000030c4        0xf ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ *fill*         0x000030d3        0x1 ff
+ .rodata.vTaskSetTimeOutState.str1.4
+                0x000030d4        0xa ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ *fill*         0x000030de        0x2 ff
+ .rodata.xTaskCheckForTimeOut.str1.4
+                0x000030e0        0xe ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ *fill*         0x000030ee        0x2 ff
+ .rodata.__func__.8
+                0x000030f0       0x15 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ *fill*         0x00003105        0x3 ff
+ .rodata.__func__.11
+                0x00003108       0x19 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ *fill*         0x00003121        0x3 ff
+ .rodata.__func__.12
+                0x00003124       0x20 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.14
+                0x00003144       0x16 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ *fill*         0x0000315a        0x2 ff
+ .rodata.__func__.15
+                0x0000315c       0x13 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ *fill*         0x0000316f        0x1 ff
+ .rodata.__func__.16
+                0x00003170       0x13 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ *fill*         0x00003183        0x1 ff
+ .rodata.__func__.20
+                0x00003184        0xf ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ *fill*         0x00003193        0x1 ff
+ .rodata.__func__.21
+                0x00003194       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .rodata.__func__.27
+                0x000031a8        0xb ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ *fill*         0x000031b3        0x1 ff
+ .rodata.__func__.30
+                0x000031b4       0x15 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ *fill*         0x000031c9        0x3 ff
+ .rodata.__func__.31
+                0x000031cc       0x12 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ *fill*         0x000031de        0x2 ff
+ .rodata.prvCheckForValidListAndQueue.str1.4
+                0x000031e0        0x5 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ *fill*         0x000031e5        0x3 ff
+ .rodata.xTimerGetReloadMode.part.0.str1.4
+                0x000031e8       0x34 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .rodata.prvTimerTask.str1.4
+                0x0000321c       0x25 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ *fill*         0x00003241        0x3 ff
+ .rodata.prvTimerTask
+                0x00003244       0x28 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .rodata.xTimerCreateTimerTask.str1.4
+                0x0000326c       0x10 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .rodata.__func__.15
+                0x0000327c       0x1b ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ *fill*         0x00003297        0x1 ff
+ .rodata.__func__.17
+                0x00003298       0x16 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+                0x000032ae                        __usb_dev_descriptor_start_fs = .
+ *(.usb_device_desc_fs*)
+                0x000032ae                        __usb_cfg_descriptor_start_fs = .
+ *(.usb_config_desc_fs*)
+                0x000032ae                        __usb_interface_descriptor_start_fs = .
+ *(.usb_interface_desc_fs*)
+                0x000032ae                        __usb_descriptor_end_fs = .
+                0x000032ae                        __usb_dev_descriptor_start_hs = .
+ *(.usb_device_desc_hs*)
+                0x000032ae                        __usb_cfg_descriptor_start_hs = .
+ *(.usb_config_desc_hs*)
+                0x000032ae                        __usb_interface_descriptor_start_hs = .
+ *(.usb_interface_desc_hs*)
+                0x000032ae                        __usb_descriptor_end_hs = .
+ *(.eh_frame*)
+ *fill*         0x000032ae        0x2 ff
+ .eh_frame      0x000032b0        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtbegin.o
+ .eh_frame      0x000032b0        0x4 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtend.o
+                0x000032b4                        __ROM_End = .
+                0x00000040                        __Vectors_Size = (__Vectors_End - __Vectors)
+
+.glue_7         0x000032b4        0x0
+ .glue_7        0x000032b4        0x0 linker stubs
+
+.glue_7t        0x000032b4        0x0
+ .glue_7t       0x000032b4        0x0 linker stubs
+
+.vfp11_veneer   0x000032b4        0x0
+ .vfp11_veneer  0x000032b4        0x0 linker stubs
+
+.v4_bx          0x000032b4        0x0
+ .v4_bx         0x000032b4        0x0 linker stubs
+
+.iplt           0x000032b4        0x0
+ .iplt          0x000032b4        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtbegin.o
+                0x000032b4                        . = .
+                0x000032b4                        __itcm_data_pre_location = .
+
+.itcm_data      0x00000000        0x0 load address 0x000032c0
+                0x00000000                        __tz_ITCM_S = ABSOLUTE (ITCM_START)
+                0x00000000                        __itcm_data_start = .
+ *(.itcm_data*)
+                0x00000000                        . = ALIGN (0x8)
+                0x00000000                        __itcm_data_end = .
+                0x00000000                        __tz_ITCM_N = DEFINED (ITCM_NS_START)?ABSOLUTE (ITCM_NS_START):ALIGN (__itcm_data_end, 0x2000)
+                0x000032c0                        __itcm_data_init_start = LOADADDR (.itcm_data)
+                0x000032c0                        __itcm_data_init_end = (LOADADDR (.itcm_data) + SIZEOF (.itcm_data))
+                0x00000001                        ASSERT (((ORIGIN (ITCM) % 0x8) == 0x0), ITCM memory region origin must be aligned to 8 bytes.)
+                0x00000001                        ASSERT (((LENGTH (ITCM) % 0x8) == 0x0), ITCM memory region length must be a multiple of 8 bytes.)
+                0x00000001                        ASSERT (((LOADADDR (.itcm_data) % 0x10) == 0x0), .itcm_data section must be aligned to 16 bytes.)
+                0x00000001                        ASSERT (((SIZEOF (.itcm_data) % 0x8) == 0x0), .itcm_data section size must be a multiple of 8 bytes.)
+                0x000032b4                        . = (SIZEOF (.itcm_data) > 0x0)?__itcm_data_init_end:__itcm_data_pre_location
+                0x000032b4                        __exidx_start = .
+
+/DISCARD/
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x000032b4                        __exidx_end = .
+                0x000032b4                        __etext = .
+                0x20000000                        __tz_RAM_S = ORIGIN (RAM)
+
+.fsp_dtc_vector_table
+                0x20000000        0x0
+                0x20000000                        . = ORIGIN (RAM)
+ *(.fsp_dtc_vector_table)
+
+.data           0x20000000        0xc load address 0x000032b4
+                0x20000000                        __data_start__ = .
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        __Code_In_RAM_Start = .
+ *(.code_in_ram*)
+                0x20000000                        __Code_In_RAM_End = .
+ *(vtable)
+ *(.data.*)
+ .data.uxTopUsedPriority
+                0x20000000        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+                0x20000000                uxTopUsedPriority
+ *(.data)
+                0x20000004                        . = ALIGN (0x4)
+                0x20000004                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x20000004                        PROVIDE (__preinit_array_end = .)
+                0x20000004                        . = ALIGN (0x4)
+                0x20000004                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x20000004        0x4 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtbegin.o
+                0x20000008                        PROVIDE (__init_array_end = .)
+                0x20000008                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x20000008        0x4 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+ *(.jcr*)
+                0x2000000c                        . = ALIGN (0x4)
+                0x2000000c                        __data_end__ = .
+
+.tm_clone_table
+                0x2000000c        0x0 load address 0x000032c0
+ .tm_clone_table
+                0x2000000c        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtbegin.o
+ .tm_clone_table
+                0x2000000c        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtend.o
+
+.igot.plt       0x2000000c        0x0 load address 0x000032c0
+ .igot.plt      0x2000000c        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtbegin.o
+                0x2000000c                        . = .
+                0x000032c0                        __dtcm_data_pre_location = (LOADADDR (.data) + SIZEOF (.data))
+
+.dtcm_data      0x00000000        0x0 load address 0x000032c0
+                0x00000000                        __tz_DTCM_S = ABSOLUTE (DTCM_START)
+                0x00000000                        __dtcm_data_start = .
+ *(.dtcm_data*)
+                0x00000000                        . = ALIGN (0x8)
+                0x00000000                        __dtcm_data_end = .
+                0x00000000                        . = __dtcm_data_end
+
+.dtcm_bss       0x00000000        0x0
+                0x00000000                        __dtcm_bss_start = .
+ *(.dtcm_bss*)
+                0x00000000                        . = ALIGN (0x8)
+                0x00000000                        __dtcm_bss_end = .
+                0x00000000                        __tz_DTCM_N = DEFINED (DTCM_NS_START)?ABSOLUTE (DTCM_NS_START):ALIGN (__dtcm_bss_end, 0x2000)
+                0x000032c0                        __dtcm_data_init_start = LOADADDR (.dtcm_data)
+                0x000032c0                        __dtcm_data_init_end = (LOADADDR (.dtcm_data) + SIZEOF (.dtcm_data))
+                0x00000001                        ASSERT (((ORIGIN (DTCM) % 0x8) == 0x0), DTCM memory region origin must be aligned to 8 bytes.)
+                0x00000001                        ASSERT (((LENGTH (DTCM) % 0x8) == 0x0), DTCM memory region length must be a multiple of 8 bytes.)
+                0x00000001                        ASSERT ((LOADADDR (.dtcm_bss) == ADDR (.dtcm_bss)), .dtcm_bss has (VMA != LMA) but should be NOLOAD (VMA == LMA).)
+                0x00000001                        ASSERT (((LOADADDR (.dtcm_data) % 0x10) == 0x0), .dtcm_data section must be aligned to 16 bytes.)
+                0x00000001                        ASSERT (((SIZEOF (.dtcm_data) % 0x8) == 0x0), .dtcm_data section size must be a multiple of 8 bytes.)
+                0x00000001                        ASSERT (((LOADADDR (.dtcm_bss) % 0x8) == 0x0), .dtcm_bss section must be aligned to 8 bytes.)
+                0x00000001                        ASSERT (((SIZEOF (.dtcm_bss) % 0x8) == 0x0), .dtcm_bss section size must be a multiple of 8 bytes.)
+                0x00000001                        ASSERT ((__dtcm_bss_start == __dtcm_data_end), .dtcm_bss section is not adjacent to .dtcm_data section.)
+                0x000032c0                        . = (SIZEOF (.dtcm_data) > 0x0)?__dtcm_data_init_end:__dtcm_data_pre_location
+                0x000032c0                        sgstubs_pre_location = .
+                0x00003400                        SGSTUBS_LOC = (DEFINED (PROJECT_SECURE) && DEFINED (FLASH_NSC_START))?ABSOLUTE (FLASH_NSC_START):ALIGN (0x400)
+
+.gnu.sgstubs    0x00003400        0x0
+                0x00003400                        __tz_FLASH_C = DEFINED (FLASH_NSC_START)?ABSOLUTE (FLASH_NSC_START):__RESERVE_NS_RAM?ABSOLUTE ((FLASH_START + FLASH_LENGTH)):ALIGN (0x400)
+                0x00003400                        _start_sg = .
+ *(.gnu.sgstubs*)
+                0x00003400                        . = ALIGN (0x20)
+                0x00003400                        _end_sg = .
+                0x00008000                        __tz_FLASH_N = DEFINED (FLASH_NS_START)?ABSOLUTE (FLASH_NS_START):__RESERVE_NS_RAM?ABSOLUTE ((FLASH_START + FLASH_LENGTH)):(FLASH_LENGTH < 0x8000)?FLASH_LENGTH:ALIGN (0x8000)
+                0x00008000                        FLASH_NS_IMAGE_START = DEFINED (FLASH_NS_IMAGE_START)?FLASH_NS_IMAGE_START:__tz_FLASH_N
+                0x60000000                        __tz_QSPI_FLASH_S = ORIGIN (QSPI_FLASH)
+
+.qspi_flash     0x60000000        0x0
+                0x60000000                        __qspi_flash_start__ = .
+ *(.qspi_flash*)
+ *(.code_in_qspi*)
+                0x60000000                        __qspi_flash_end__ = .
+                0x00000000                        __qspi_flash_code_size__ = (__qspi_flash_end__ - __qspi_flash_start__)
+                0x000032c0                        __qspi_flash_code_addr__ = sgstubs_pre_location
+
+.qspi_non_retentive
+                0x60000000        0x0 load address 0x000032c0
+                0x60000000                        __qspi_non_retentive_start__ = .
+ *(.qspi_non_retentive*)
+                0x60000000                        __qspi_non_retentive_end__ = .
+                0x00000000                        __qspi_non_retentive_size__ = (__qspi_non_retentive_end__ - __qspi_non_retentive_start__)
+                0x04000000                        __qspi_region_max_size__ = 0x4000000
+                0x60000000                        __qspi_region_start_address__ = __qspi_flash_start__
+                0x64000000                        __qspi_region_end_address__ = (__qspi_flash_start__ + __qspi_region_max_size__)
+                0x60000000                        __tz_QSPI_FLASH_N = __qspi_non_retentive_end__
+
+.OSPI_DEVICE_0_NO_LOAD
+                0x80020000        0x0
+                0x80020000                        . = ALIGN (0x4)
+                0x80020000                        __ospi_device_0_start__ = .
+ *(.ospi_device_0_no_load*)
+                0x80020000                        . = ALIGN (0x4)
+                0x80020000                        __ospi_device_0_end__ = .
+
+.OSPI_DEVICE_1_NO_LOAD
+                0x80030000        0x0
+                0x80030000                        . = ALIGN (0x4)
+                0x80030000                        __ospi_device_1_start__ = .
+ *(.ospi_device_1_no_load*)
+                0x80030000                        . = ALIGN (0x4)
+                0x80030000                        __ospi_device_1_end__ = .
+                0x80020000                        __tz_OSPI_DEVICE_0_S = ORIGIN (OSPI_DEVICE_0)
+
+.OSPI_DEVICE_0  0x80020000        0x0
+                0x80020000                        __ospi_device_0_start__ = .
+ *(.ospi_device_0*)
+ *(.code_in_ospi_device_0*)
+                0x80020000                        __ospi_device_0_end__ = .
+                0x00000000                        __ospi_device_0_code_size__ = (__ospi_device_0_end__ - __ospi_device_0_start__)
+                0x000032c0                        __ospi_device_0_code_addr__ = (sgstubs_pre_location + SIZEOF (.qspi_non_retentive))
+
+.ospi_device_0_non_retentive
+                0x80020000        0x0 load address 0x000032c0
+                0x80020000                        __ospi_device_0_non_retentive_start__ = .
+ *(.ospi_device_0_non_retentive*)
+                0x80020000                        __ospi_device_0_non_retentive_end__ = .
+                0x00000000                        __ospi_device_0_non_retentive_size__ = (__ospi_device_0_non_retentive_end__ - __ospi_device_0_non_retentive_start__)
+                0x08000000                        __ospi_device_0_region_max_size__ = 0x8000000
+                0x80020000                        __ospi_device_0_region_start_address__ = __ospi_device_0_start__
+                0x88020000                        __ospi_device_0_region_end_address__ = (__ospi_device_0_start__ + __ospi_device_0_region_max_size__)
+                0x80020000                        __tz_OSPI_DEVICE_0_N = __ospi_device_0_non_retentive_end__
+                0x80030000                        __tz_OSPI_DEVICE_1_S = ORIGIN (OSPI_DEVICE_1)
+
+.OSPI_DEVICE_1  0x80030000        0x0
+                0x80030000                        __ospi_device_1_start__ = .
+ *(.ospi_device_1*)
+ *(.code_in_ospi_device_1*)
+                0x80030000                        __ospi_device_1_end__ = .
+                0x00000000                        __ospi_device_1_code_size__ = (__ospi_device_1_end__ - __ospi_device_1_start__)
+                0x000032c0                        __ospi_device_1_code_addr__ = (sgstubs_pre_location + (SIZEOF (.qspi_non_retentive) + SIZEOF (.ospi_device_0_non_retentive)))
+
+.ospi_device_1_non_retentive
+                0x80030000        0x0 load address 0x000032c0
+                0x80030000                        __ospi_device_1_non_retentive_start__ = .
+ *(.ospi_device_1_non_retentive*)
+                0x80030000                        __ospi_device_1_non_retentive_end__ = .
+                0x00000000                        __ospi_device_1_non_retentive_size__ = (__ospi_device_1_non_retentive_end__ - __ospi_device_1_non_retentive_start__)
+                0x10000000                        __ospi_device_1_region_max_size__ = 0x10000000
+                0x80030000                        __ospi_device_1_region_start_address__ = __ospi_device_1_start__
+                0x90030000                        __ospi_device_1_region_end_address__ = (__ospi_device_1_start__ + __ospi_device_1_region_max_size__)
+                0x80030000                        __tz_OSPI_DEVICE_1_N = __ospi_device_1_non_retentive_end__
+
+.noinit         0x2000000c       0x14
+                0x2000000c                        . = ALIGN (0x4)
+                0x2000000c                        __noinit_start = .
+ *(.noinit*)
+ .noinit        0x2000000c       0x14 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x20000020                        . = ALIGN (0x8)
+ *(.heap.*)
+                0x20000020                        __noinit_end = .
+
+.bss            0x20000020      0x84c
+                0x20000020                        . = ALIGN (0x4)
+                0x20000020                        __bss_start__ = .
+ *(.bss*)
+ .bss.completed.1
+                0x20000020        0x1 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtbegin.o
+ *fill*         0x20000021        0x3 
+ .bss.object.0  0x20000024       0x18 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtbegin.o
+ .bss.myPinCounter.0
+                0x2000003c        0x4 ./src/ASL165_Handler_entry.o
+ .bss.myLoopCounter.1
+                0x20000040        0x4 ./src/ASL165_Handler_entry.o
+ .bss.ASL165_Handler
+                0x20000044        0x4 ./ra_gen/ASL165_Handler.o
+                0x20000044                ASL165_Handler
+ .bss.ASL165_Handler_memory
+                0x20000048       0x60 ./ra_gen/ASL165_Handler.o
+ .bss.g_ioport_ctrl
+                0x200000a8        0x8 ./ra_gen/common_data.o
+                0x200000a8                g_ioport_ctrl
+ .bss.uxTimerTaskStack.3
+                0x200000b0      0x200 ./ra_gen/main.o
+ .bss.xTimerTaskTCB.2
+                0x200002b0       0x60 ./ra_gen/main.o
+ .bss.uxIdleTaskStack.1
+                0x20000310      0x200 ./ra_gen/main.o
+ .bss.xIdleTaskTCB.0
+                0x20000510       0x60 ./ra_gen/main.o
+ .bss.g_fsp_common_initialized_semaphore_memory
+                0x20000570       0x48 ./ra_gen/main.o
+                0x20000570                g_fsp_common_initialized_semaphore_memory
+ .bss.g_fsp_common_initialized_semaphore
+                0x200005b8        0x4 ./ra_gen/main.o
+                0x200005b8                g_fsp_common_initialized_semaphore
+ .bss.g_fsp_common_initialized
+                0x200005bc        0x1 ./ra_gen/main.o
+                0x200005bc                g_fsp_common_initialized
+ *fill*         0x200005bd        0x3 
+ .bss.g_fsp_common_thread_count
+                0x200005c0        0x4 ./ra_gen/main.o
+                0x200005c0                g_fsp_common_thread_count
+ .bss.g_mask_level_before_disable
+                0x200005c4        0x4 ./ra/fsp/src/rm_freertos_port/port.o
+ .bss.uxCriticalNesting
+                0x200005c8        0x4 ./ra/fsp/src/rm_freertos_port/port.o
+ .bss.g_bsp_group_irq_sources
+                0x200005cc       0x40 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+                0x200005cc                g_bsp_group_irq_sources
+ .bss.g_protect_pfswe_counter
+                0x2000060c        0x4 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+                0x2000060c                g_protect_pfswe_counter
+ .bss.g_protect_counters
+                0x20000610        0x8 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+                0x20000610                g_protect_counters
+ .bss.SystemCoreClock
+                0x20000618        0x4 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x20000618                SystemCoreClock
+ *fill*         0x2000061c        0x4 
+ .bss.xQueueRegistry
+                0x20000620       0x50 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+                0x20000620                xQueueRegistry
+ .bss.uxSchedulerSuspended
+                0x20000670        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .bss.xNextTaskUnblockTime
+                0x20000674        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .bss.uxTaskNumber
+                0x20000678        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .bss.xNumOfOverflows
+                0x2000067c        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .bss.xYieldPending
+                0x20000680        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .bss.xPendedTicks
+                0x20000684        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .bss.xSchedulerRunning
+                0x20000688        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .bss.uxTopReadyPriority
+                0x2000068c        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .bss.xTickCount
+                0x20000690        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x20000694        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .bss.xSuspendedTaskList
+                0x20000698       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .bss.uxDeletedTasksWaitingCleanUp
+                0x200006ac        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .bss.xTasksWaitingTermination
+                0x200006b0       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .bss.xPendingReadyList
+                0x200006c4       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x200006d8        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .bss.pxDelayedTaskList
+                0x200006dc        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .bss.xDelayedTaskList2
+                0x200006e0       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .bss.xDelayedTaskList1
+                0x200006f4       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .bss.pxReadyTasksLists
+                0x20000708       0x64 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .bss.pxCurrentTCB
+                0x2000076c        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+                0x2000076c                pxCurrentTCB
+ .bss.xStaticTimerQueue.13
+                0x20000770       0x48 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .bss.ucStaticTimerQueueStorage.14
+                0x200007b8       0x78 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .bss.xLastTime.16
+                0x20000830        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .bss.xTimerTaskHandle
+                0x20000834        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .bss.xTimerQueue
+                0x20000838        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .bss.pxOverflowTimerList
+                0x2000083c        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .bss.pxCurrentTimerList
+                0x20000840        0x4 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .bss.xActiveTimerList2
+                0x20000844       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .bss.xActiveTimerList1
+                0x20000858       0x14 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ *(COMMON)
+                0x2000086c                        . = ALIGN (0x4)
+                0x2000086c                        __bss_end__ = .
+
+.heap           0x2000086c        0x4
+                0x20000870                        . = ALIGN (0x8)
+ *fill*         0x2000086c        0x4 
+                0x20000870                        __HeapBase = .
+ *(.heap)
+                0x20000870                        __HeapLimit = .
+
+.stack_dummy    0x20000870      0x800
+                0x20000870                        . = ALIGN (0x8)
+                0x20000870                        __StackLimit = .
+ *(.stack)
+ .stack         0x20000870      0x400 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x20000c70                        __StackTop = .
+ *(.stack*)
+ .stack.ASL165_Handler
+                0x20000c70      0x400 ./ra_gen/ASL165_Handler.o
+                0x20001070                        __StackTopAll = .
+                0x20001070                        PROVIDE (__stack = __StackTopAll)
+                0x20001070                        __RAM_segment_used_end__ = ALIGN (__StackTopAll, 0x4)
+                0x20001400                        __tz_RAM_C = DEFINED (RAM_NSC_START)?ABSOLUTE ((RAM_NSC_START - RAM_NS_BUFFER_BLOCK_LENGTH)):__RESERVE_NS_RAM?ABSOLUTE (RAM_NS_BUFFER_BLOCK_START):ALIGN (__RAM_segment_used_end__, 0x400)
+                0x20002000                        __tz_RAM_N = DEFINED (RAM_NS_START)?ABSOLUTE ((RAM_NS_START - RAM_NS_BUFFER_BLOCK_LENGTH)):__RESERVE_NS_RAM?ABSOLUTE (RAM_NS_BUFFER_BLOCK_START):ALIGN (__tz_RAM_C, 0x2000)
+
+.ns_buffer      0x20001070        0x0
+                0x20001070                        . = __RESERVE_NS_RAM?ABSOLUTE ((RAM_NS_BUFFER_START & 0xffffffe0)):.
+ *(.ns_buffer*)
+
+.data_flash     0x40100000        0x0
+                0x40100000                        . = ORIGIN (DATA_FLASH)
+                0x40100000                        __tz_DATA_FLASH_S = .
+                0x40100000                        __Data_Flash_Start = .
+ *(.data_flash*)
+                0x40100000                        __Data_Flash_End = .
+                0x40100000                        __tz_DATA_FLASH_N = DEFINED (DATA_FLASH_NS_START)?ABSOLUTE (DATA_FLASH_NS_START):__RESERVE_NS_RAM?ABSOLUTE ((DATA_FLASH_START + DATA_FLASH_LENGTH)):ALIGN (0x400)
+                0x80010000                        __tz_SDRAM_S = ORIGIN (SDRAM)
+
+.sdram          0x80010000        0x0
+                0x80010000                        __SDRAM_Start = .
+ *(.sdram*)
+ *(.frame*)
+                0x80010000                        __SDRAM_End = .
+                0x80010000                        __tz_SDRAM_N = __SDRAM_End
+                0x01010018                        __tz_ID_CODE_S = ORIGIN (ID_CODE)
+                0x01010018                        __tz_ID_CODE_N = __tz_ID_CODE_S
+
+.id_code        0x01010018       0x1c
+                0x01010018                        __ID_Code_Start = .
+ *(.id_code*)
+ .id_code       0x01010018       0x1c ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+                0x01010034                        __ID_Code_End = .
+                0x00000000                        __tz_OPTION_SETTING_S = ORIGIN (OPTION_SETTING_OFS)
+
+.rel.dyn        0x01010034        0x0
+ .rel.iplt      0x01010034        0x0 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtbegin.o
+
+.option_setting_ofs
+                0x00000000        0x0
+                0x00000000                        __OPTION_SETTING_OFS_Start = .
+ *(.option_setting_ofs0)
+                0x00000000                        . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_OFS_Start + 0x4):__OPTION_SETTING_OFS_Start
+ *(.option_setting_ofs2)
+                0x00000000                        . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_OFS_Start + 0x10):__OPTION_SETTING_OFS_Start
+ *(.option_setting_dualsel)
+                0x00000000                        __OPTION_SETTING_OFS_End = .
+
+.option_setting_sas
+                0x00000034        0x0
+                0x00000034                        __OPTION_SETTING_SAS_Start = .
+ *(.option_setting_sas)
+                0x00000034                        __OPTION_SETTING_SAS_End = .
+                0x00000080                        __tz_OPTION_SETTING_N = ABSOLUTE (OPTION_SETTING_START_NS)
+
+.option_setting_ns
+                0x00000000        0x0
+                0x00000000                        __OPTION_SETTING_NS_Start = .
+ *(.option_setting_ofs1)
+                0x00000000                        . = USE_OPTION_SETTING_NS?(__OPTION_SETTING_NS_Start + 0x4):__OPTION_SETTING_NS_Start
+ *(.option_setting_ofs3)
+                0x00000000                        . = USE_OPTION_SETTING_NS?(__OPTION_SETTING_NS_Start + 0x10):__OPTION_SETTING_NS_Start
+ *(.option_setting_banksel)
+                0x00000000                        . = USE_OPTION_SETTING_NS?(__OPTION_SETTING_NS_Start + 0x40):__OPTION_SETTING_NS_Start
+ *(.option_setting_bps0)
+                0x00000000                        . = USE_OPTION_SETTING_NS?(__OPTION_SETTING_NS_Start + 0x44):__OPTION_SETTING_NS_Start
+ *(.option_setting_bps1)
+                0x00000000                        . = USE_OPTION_SETTING_NS?(__OPTION_SETTING_NS_Start + 0x48):__OPTION_SETTING_NS_Start
+ *(.option_setting_bps2)
+                0x00000000                        . = USE_OPTION_SETTING_NS?(__OPTION_SETTING_NS_Start + 0x4c):__OPTION_SETTING_NS_Start
+ *(.option_setting_bps3)
+                0x00000000                        . = USE_OPTION_SETTING_NS?(__OPTION_SETTING_NS_Start + 0x60):__OPTION_SETTING_NS_Start
+ *(.option_setting_pbps0)
+                0x00000000                        . = USE_OPTION_SETTING_NS?(__OPTION_SETTING_NS_Start + 0x64):__OPTION_SETTING_NS_Start
+ *(.option_setting_pbps1)
+                0x00000000                        . = USE_OPTION_SETTING_NS?(__OPTION_SETTING_NS_Start + 0x68):__OPTION_SETTING_NS_Start
+ *(.option_setting_pbps2)
+                0x00000000                        . = USE_OPTION_SETTING_NS?(__OPTION_SETTING_NS_Start + 0x6c):__OPTION_SETTING_NS_Start
+ *(.option_setting_pbps3)
+                0x00000000                        __OPTION_SETTING_NS_End = .
+                0x80000000                        __tz_OPTION_SETTING_S_S = ORIGIN (OPTION_SETTING_S)
+
+.option_setting_s
+                0x80000000        0x0
+                0x80000000                        __OPTION_SETTING_S_Start = .
+ *(.option_setting_ofs1_sec)
+                0x80000000                        . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x4):__OPTION_SETTING_S_Start
+ *(.option_setting_ofs3_sec)
+                0x80000000                        . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x10):__OPTION_SETTING_S_Start
+ *(.option_setting_banksel_sec)
+                0x80000000                        . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x40):__OPTION_SETTING_S_Start
+ *(.option_setting_bps_sec0)
+                0x80000000                        . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x44):__OPTION_SETTING_S_Start
+ *(.option_setting_bps_sec1)
+                0x80000000                        . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x48):__OPTION_SETTING_S_Start
+ *(.option_setting_bps_sec2)
+                0x80000000                        . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x4c):__OPTION_SETTING_S_Start
+ *(.option_setting_bps_sec3)
+                0x80000000                        . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x60):__OPTION_SETTING_S_Start
+ *(.option_setting_pbps_sec0)
+                0x80000000                        . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x64):__OPTION_SETTING_S_Start
+ *(.option_setting_pbps_sec1)
+                0x80000000                        . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x68):__OPTION_SETTING_S_Start
+ *(.option_setting_pbps_sec2)
+                0x80000000                        . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x6c):__OPTION_SETTING_S_Start
+ *(.option_setting_pbps_sec3)
+                0x80000000                        . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x80):__OPTION_SETTING_S_Start
+ *(.option_setting_ofs1_sel)
+                0x80000000                        . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x84):__OPTION_SETTING_S_Start
+ *(.option_setting_ofs3_sel)
+                0x80000000                        . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0x90):__OPTION_SETTING_S_Start
+ *(.option_setting_banksel_sel)
+                0x80000000                        . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0xc0):__OPTION_SETTING_S_Start
+ *(.option_setting_bps_sel0)
+                0x80000000                        . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0xc4):__OPTION_SETTING_S_Start
+ *(.option_setting_bps_sel1)
+                0x80000000                        . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0xc8):__OPTION_SETTING_S_Start
+ *(.option_setting_bps_sel2)
+                0x80000000                        . = PROJECT_SECURE_OR_FLAT?(__OPTION_SETTING_S_Start + 0xcc):__OPTION_SETTING_S_Start
+ *(.option_setting_bps_sel3)
+                0x80000000                        __OPTION_SETTING_S_End = .
+                0x80000000                        __tz_OPTION_SETTING_S_N = __OPTION_SETTING_S_End
+OUTPUT(ASL165_Test.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x00000000       0x2c
+ .ARM.attributes
+                0x00000000       0x22 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crti.o
+ .ARM.attributes
+                0x00000022       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtbegin.o
+ .ARM.attributes
+                0x00000052       0x30 ./src/ASL165_Handler_entry.o
+ .ARM.attributes
+                0x00000082       0x30 ./src/hal_entry.o
+ .ARM.attributes
+                0x000000b2       0x30 ./ra_gen/ASL165_Handler.o
+ .ARM.attributes
+                0x000000e2       0x30 ./ra_gen/common_data.o
+ .ARM.attributes
+                0x00000112       0x30 ./ra_gen/hal_data.o
+ .ARM.attributes
+                0x00000142       0x30 ./ra_gen/main.o
+ .ARM.attributes
+                0x00000172       0x30 ./ra_gen/pin_data.o
+ .ARM.attributes
+                0x000001a2       0x30 ./ra/fsp/src/rm_freertos_port/port.o
+ .ARM.attributes
+                0x000001d2       0x30 ./ra/fsp/src/r_ioport/r_ioport.o
+ .ARM.attributes
+                0x00000202       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .ARM.attributes
+                0x00000232       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .ARM.attributes
+                0x00000262       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .ARM.attributes
+                0x00000292       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .ARM.attributes
+                0x000002c2       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .ARM.attributes
+                0x000002f2       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .ARM.attributes
+                0x00000322       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .ARM.attributes
+                0x00000352       0x30 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .ARM.attributes
+                0x00000382       0x30 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .ARM.attributes
+                0x000003b2       0x30 ./ra/board/ra2l1_ek/board_init.o
+ .ARM.attributes
+                0x000003e2       0x30 ./ra/board/ra2l1_ek/board_leds.o
+ .ARM.attributes
+                0x00000412       0x30 ./ra/aws/FreeRTOS/FreeRTOS/Source/list.o
+ .ARM.attributes
+                0x00000442       0x30 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .ARM.attributes
+                0x00000472       0x30 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .ARM.attributes
+                0x000004a2       0x30 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .ARM.attributes
+                0x000004d2       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x00000502       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000532       0x30 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtend.o
+ .ARM.attributes
+                0x00000562       0x22 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp/crtn.o
+
+.comment        0x00000000       0x55
+ .comment       0x00000000       0x55 ./src/ASL165_Handler_entry.o
+                                 0x56 (size before relaxing)
+ .comment       0x00000055       0x56 ./src/hal_entry.o
+ .comment       0x00000055       0x56 ./ra_gen/ASL165_Handler.o
+ .comment       0x00000055       0x56 ./ra_gen/common_data.o
+ .comment       0x00000055       0x56 ./ra_gen/hal_data.o
+ .comment       0x00000055       0x56 ./ra_gen/main.o
+ .comment       0x00000055       0x56 ./ra_gen/pin_data.o
+ .comment       0x00000055       0x56 ./ra/fsp/src/rm_freertos_port/port.o
+ .comment       0x00000055       0x56 ./ra/fsp/src/r_ioport/r_ioport.o
+ .comment       0x00000055       0x56 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .comment       0x00000055       0x56 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .comment       0x00000055       0x56 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .comment       0x00000055       0x56 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .comment       0x00000055       0x56 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .comment       0x00000055       0x56 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .comment       0x00000055       0x56 ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .comment       0x00000055       0x56 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .comment       0x00000055       0x56 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .comment       0x00000055       0x56 ./ra/board/ra2l1_ek/board_init.o
+ .comment       0x00000055       0x56 ./ra/board/ra2l1_ek/board_leds.o
+ .comment       0x00000055       0x56 ./ra/aws/FreeRTOS/FreeRTOS/Source/list.o
+ .comment       0x00000055       0x56 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .comment       0x00000055       0x56 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .comment       0x00000055       0x56 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+
+.debug_info     0x00000000    0x25b19
+ .debug_info    0x00000000     0x14e7 ./src/ASL165_Handler_entry.o
+ .debug_info    0x000014e7     0x1e3d ./src/hal_entry.o
+ .debug_info    0x00003324      0x407 ./ra_gen/ASL165_Handler.o
+ .debug_info    0x0000372b     0x1210 ./ra_gen/common_data.o
+ .debug_info    0x0000493b       0xa5 ./ra_gen/hal_data.o
+ .debug_info    0x000049e0      0x677 ./ra_gen/main.o
+ .debug_info    0x00005057      0xa2b ./ra_gen/pin_data.o
+ .debug_info    0x00005a82     0x48e9 ./ra/fsp/src/rm_freertos_port/port.o
+ .debug_info    0x0000a36b     0x2fcd ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_info    0x0000d338     0x63eb ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_info    0x00013723      0x928 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_info    0x0001404b     0x13fe ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_info    0x00015449       0xb1 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_info    0x000154fa     0x100f ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_info    0x00016509     0x3f0d ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_info    0x0001a416       0xe4 ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .debug_info    0x0001a4fa      0x167 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_info    0x0001a661     0x239a ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_info    0x0001c9fb       0xa4 ./ra/board/ra2l1_ek/board_init.o
+ .debug_info    0x0001ca9f      0x7a1 ./ra/board/ra2l1_ek/board_leds.o
+ .debug_info    0x0001d240      0x2e7 ./ra/aws/FreeRTOS/FreeRTOS/Source/list.o
+ .debug_info    0x0001d527     0x2f18 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .debug_info    0x0002043f     0x3854 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .debug_info    0x00023c93     0x1e86 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+
+.debug_abbrev   0x00000000     0x345a
+ .debug_abbrev  0x00000000      0x37c ./src/ASL165_Handler_entry.o
+ .debug_abbrev  0x0000037c      0x22e ./src/hal_entry.o
+ .debug_abbrev  0x000005aa      0x1d8 ./ra_gen/ASL165_Handler.o
+ .debug_abbrev  0x00000782      0x12e ./ra_gen/common_data.o
+ .debug_abbrev  0x000008b0       0x62 ./ra_gen/hal_data.o
+ .debug_abbrev  0x00000912      0x1e9 ./ra_gen/main.o
+ .debug_abbrev  0x00000afb       0xf6 ./ra_gen/pin_data.o
+ .debug_abbrev  0x00000bf1      0x3f5 ./ra/fsp/src/rm_freertos_port/port.o
+ .debug_abbrev  0x00000fe6      0x3f7 ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_abbrev  0x000013dd      0x3b9 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_abbrev  0x00001796      0x183 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_abbrev  0x00001919      0x256 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_abbrev  0x00001b6f       0x5e ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_abbrev  0x00001bcd      0x1a6 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_abbrev  0x00001d73      0x252 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_abbrev  0x00001fc5       0x5f ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .debug_abbrev  0x00002024       0xf9 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_abbrev  0x0000211d      0x37e ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_abbrev  0x0000249b       0x5c ./ra/board/ra2l1_ek/board_init.o
+ .debug_abbrev  0x000024f7       0xc4 ./ra/board/ra2l1_ek/board_leds.o
+ .debug_abbrev  0x000025bb      0x106 ./ra/aws/FreeRTOS/FreeRTOS/Source/list.o
+ .debug_abbrev  0x000026c1      0x46a ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .debug_abbrev  0x00002b2b      0x4df ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .debug_abbrev  0x0000300a      0x450 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+
+.debug_loc      0x00000000     0x8819
+ .debug_loc     0x00000000      0x461 ./src/ASL165_Handler_entry.o
+ .debug_loc     0x00000461       0x42 ./src/hal_entry.o
+ .debug_loc     0x000004a3       0x32 ./ra_gen/ASL165_Handler.o
+ .debug_loc     0x000004d5       0x22 ./ra_gen/main.o
+ .debug_loc     0x000004f7      0x3d7 ./ra/fsp/src/rm_freertos_port/port.o
+ .debug_loc     0x000008ce      0xbb7 ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_loc     0x00001485      0x2a3 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_loc     0x00001728       0x25 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_loc     0x0000174d       0xa7 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_loc     0x000017f4       0x23 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_loc     0x00001817      0x110 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_loc     0x00001927      0x11a ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_loc     0x00001a41       0xd7 ./ra/aws/FreeRTOS/FreeRTOS/Source/list.o
+ .debug_loc     0x00001b18     0x2a5a ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .debug_loc     0x00004572     0x2dd3 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .debug_loc     0x00007345     0x14d4 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+
+.debug_aranges  0x00000000      0x738
+ .debug_aranges
+                0x00000000       0x20 ./src/ASL165_Handler_entry.o
+ .debug_aranges
+                0x00000020       0x28 ./src/hal_entry.o
+ .debug_aranges
+                0x00000048       0x28 ./ra_gen/ASL165_Handler.o
+ .debug_aranges
+                0x00000070       0x20 ./ra_gen/common_data.o
+ .debug_aranges
+                0x00000090       0x20 ./ra_gen/hal_data.o
+ .debug_aranges
+                0x000000b0       0x40 ./ra_gen/main.o
+ .debug_aranges
+                0x000000f0       0x18 ./ra_gen/pin_data.o
+ .debug_aranges
+                0x00000108       0x90 ./ra/fsp/src/rm_freertos_port/port.o
+ .debug_aranges
+                0x00000198       0x88 ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_aranges
+                0x00000220       0x58 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_aranges
+                0x00000278       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_aranges
+                0x000002a8       0x28 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_aranges
+                0x000002d0       0x18 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_aranges
+                0x000002e8       0x20 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_aranges
+                0x00000308       0x28 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_aranges
+                0x00000330       0x18 ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .debug_aranges
+                0x00000348       0x28 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_aranges
+                0x00000370       0x28 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_aranges
+                0x00000398       0x20 ./ra/board/ra2l1_ek/board_init.o
+ .debug_aranges
+                0x000003b8       0x18 ./ra/board/ra2l1_ek/board_leds.o
+ .debug_aranges
+                0x000003d0       0x40 ./ra/aws/FreeRTOS/FreeRTOS/Source/list.o
+ .debug_aranges
+                0x00000410       0xf0 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .debug_aranges
+                0x00000500      0x190 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .debug_aranges
+                0x00000690       0xa8 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+
+.debug_ranges   0x00000000     0x1168
+ .debug_ranges  0x00000000       0xa0 ./src/ASL165_Handler_entry.o
+ .debug_ranges  0x000000a0       0x18 ./src/hal_entry.o
+ .debug_ranges  0x000000b8       0x18 ./ra_gen/ASL165_Handler.o
+ .debug_ranges  0x000000d0       0x10 ./ra_gen/common_data.o
+ .debug_ranges  0x000000e0       0x10 ./ra_gen/hal_data.o
+ .debug_ranges  0x000000f0       0x30 ./ra_gen/main.o
+ .debug_ranges  0x00000120      0x1a0 ./ra/fsp/src/rm_freertos_port/port.o
+ .debug_ranges  0x000002c0      0x150 ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_ranges  0x00000410       0x98 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_ranges  0x000004a8       0x20 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_ranges  0x000004c8       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_ranges  0x000004f8       0x10 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_ranges  0x00000508       0x48 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_ranges  0x00000550       0x18 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_ranges  0x00000568       0x18 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_ranges  0x00000580       0x10 ./ra/board/ra2l1_ek/board_init.o
+ .debug_ranges  0x00000590       0x30 ./ra/aws/FreeRTOS/FreeRTOS/Source/list.o
+ .debug_ranges  0x000005c0      0x438 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .debug_ranges  0x000009f8      0x528 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .debug_ranges  0x00000f20      0x248 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+
+.debug_line     0x00000000     0x9f10
+ .debug_line    0x00000000      0x76f ./src/ASL165_Handler_entry.o
+ .debug_line    0x0000076f      0x368 ./src/hal_entry.o
+ .debug_line    0x00000ad7      0x283 ./ra_gen/ASL165_Handler.o
+ .debug_line    0x00000d5a      0x28d ./ra_gen/common_data.o
+ .debug_line    0x00000fe7       0x62 ./ra_gen/hal_data.o
+ .debug_line    0x00001049      0x357 ./ra_gen/main.o
+ .debug_line    0x000013a0      0x20a ./ra_gen/pin_data.o
+ .debug_line    0x000015aa      0x9bd ./ra/fsp/src/rm_freertos_port/port.o
+ .debug_line    0x00001f67      0x9ec ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_line    0x00002953      0x651 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_line    0x00002fa4      0x2bd ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_line    0x00003261      0x2f2 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_line    0x00003553      0x186 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_line    0x000036d9      0x294 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_line    0x0000396d      0x3a6 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_line    0x00003d13      0x147 ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .debug_line    0x00003e5a      0x20a ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_line    0x00004064      0x5f7 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_line    0x0000465b       0x5a ./ra/board/ra2l1_ek/board_init.o
+ .debug_line    0x000046b5      0x1ce ./ra/board/ra2l1_ek/board_leds.o
+ .debug_line    0x00004883      0x3e2 ./ra/aws/FreeRTOS/FreeRTOS/Source/list.o
+ .debug_line    0x00004c65     0x1bfd ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .debug_line    0x00006862     0x2929 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .debug_line    0x0000918b      0xd85 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+
+.debug_str      0x00000000     0xa2f1
+ .debug_str     0x00000000     0x1b22 ./src/ASL165_Handler_entry.o
+                               0x1bae (size before relaxing)
+ .debug_str     0x00001b22     0x1eaf ./src/hal_entry.o
+                               0x358f (size before relaxing)
+ .debug_str     0x000039d1      0x20c ./ra_gen/ASL165_Handler.o
+                                0x400 (size before relaxing)
+ .debug_str     0x00003bdd      0x238 ./ra_gen/common_data.o
+                               0x325a (size before relaxing)
+ .debug_str     0x00003e15       0x20 ./ra_gen/hal_data.o
+                                0x1bd (size before relaxing)
+ .debug_str     0x00003e35      0x2de ./ra_gen/main.o
+                                0x5ba (size before relaxing)
+ .debug_str     0x00004113      0x464 ./ra_gen/pin_data.o
+                               0x1d40 (size before relaxing)
+ .debug_str     0x00004577     0x1a58 ./ra/fsp/src/rm_freertos_port/port.o
+                               0x1e9f (size before relaxing)
+ .debug_str     0x00005fcf      0x620 ./ra/fsp/src/r_ioport/r_ioport.o
+                               0x3a75 (size before relaxing)
+ .debug_str     0x000065ef      0x8a2 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+                               0x257d (size before relaxing)
+ .debug_str     0x00006e91      0x104 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+                               0x1b65 (size before relaxing)
+ .debug_str     0x00006f95      0x540 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+                               0x2076 (size before relaxing)
+ .debug_str     0x000074d5       0x23 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+                                0x1de (size before relaxing)
+ .debug_str     0x000074f8      0xffe ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+                               0x15f6 (size before relaxing)
+ .debug_str     0x000084f6      0x12b ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+                               0x1aab (size before relaxing)
+ .debug_str     0x00008621       0x51 ./ra/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+                                0x1f4 (size before relaxing)
+ .debug_str     0x00008672       0x82 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                                0x246 (size before relaxing)
+ .debug_str     0x000086f4      0x591 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                                0xfa9 (size before relaxing)
+ .debug_str     0x00008c85       0x22 ./ra/board/ra2l1_ek/board_init.o
+                                0x1c1 (size before relaxing)
+ .debug_str     0x00008ca7       0x31 ./ra/board/ra2l1_ek/board_leds.o
+                               0x16bb (size before relaxing)
+ .debug_str     0x00008cd8      0x1e6 ./ra/aws/FreeRTOS/FreeRTOS/Source/list.o
+                                0x2f5 (size before relaxing)
+ .debug_str     0x00008ebe      0x61c ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+                                0xb19 (size before relaxing)
+ .debug_str     0x000094da      0x957 ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+                               0x1099 (size before relaxing)
+ .debug_str     0x00009e31      0x4c0 ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+                                0xb5b (size before relaxing)
+
+.debug_frame    0x00000000     0x1104
+ .debug_frame   0x00000000       0x3c ./src/ASL165_Handler_entry.o
+ .debug_frame   0x0000003c       0x38 ./src/hal_entry.o
+ .debug_frame   0x00000074       0x40 ./ra_gen/ASL165_Handler.o
+ .debug_frame   0x000000b4       0x20 ./ra_gen/common_data.o
+ .debug_frame   0x000000d4       0x28 ./ra_gen/hal_data.o
+ .debug_frame   0x000000fc       0x74 ./ra_gen/main.o
+ .debug_frame   0x00000170      0x144 ./ra/fsp/src/rm_freertos_port/port.o
+ .debug_frame   0x000002b4      0x13c ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_frame   0x000003f0       0xb4 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_frame   0x000004a4       0x40 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_frame   0x000004e4       0x40 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_frame   0x00000524       0x20 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_frame   0x00000544       0x48 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_frame   0x0000058c       0x38 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_frame   0x000005c4       0x40 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_frame   0x00000604       0x20 ./ra/board/ra2l1_ek/board_init.o
+ .debug_frame   0x00000624       0x6c ./ra/aws/FreeRTOS/FreeRTOS/Source/list.o
+ .debug_frame   0x00000690      0x314 ./ra/aws/FreeRTOS/FreeRTOS/Source/queue.o
+ .debug_frame   0x000009a4      0x50c ./ra/aws/FreeRTOS/FreeRTOS/Source/tasks.o
+ .debug_frame   0x00000eb0      0x20c ./ra/aws/FreeRTOS/FreeRTOS/Source/timers.o
+ .debug_frame   0x000010bc       0x20 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-memset.o)
+ .debug_frame   0x000010dc       0x28 c:/renesas/ra/e2studio_v2023-10_fsp_v5.0.0/toolchains/gcc_arm/12.2.mpacbti-rel1/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.base/nofp\libg_nano.a(libc_a-memcpy-stub.o)
