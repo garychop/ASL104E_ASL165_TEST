@@ -10,6 +10,7 @@ RM := rm -rf
 
 # All of the sources participating in the build are defined here
 -include sources.mk
+-include src/Programmer/subdir.mk
 -include src/subdir.mk
 -include ra_gen/subdir.mk
 -include ra/fsp/src/rm_freertos_port/subdir.mk
@@ -94,7 +95,7 @@ all: ASL165_Test.elf secondary-outputs
 
 # Tool invocations
 ASL165_Test.elf: $(OBJS) $(USER_OBJS) $(LINKER_SCRIPT)
-	$(file > ASL165_Test.elf.in,-mcpu=cortex-m23 -mthumb -O2 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -Wunused -Wuninitialized -Wall -Wextra -Wmissing-declarations -Wconversion -Wpointer-arith -Wshadow -Wlogical-op -Waggregate-return -Wfloat-equal -g -gdwarf-4 -T "fsp.ld" -Xlinker --gc-sections -L "C:\\asl\\ASL104E\\ASL104E_HUB\\ASL165_Test/script" -Wl,-Map,"ASL165_Test.map" --specs=nano.specs -o "ASL165_Test.elf" -Wl,--start-group $(OBJS) $(USER_OBJS) $(LIBS) -Wl,--end-group)
+	$(file > ASL165_Test.elf.in,-mcpu=cortex-m23 -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -Wunused -Wuninitialized -Wall -Wextra -Wmissing-declarations -Wconversion -Wpointer-arith -Wshadow -Wlogical-op -Waggregate-return -Wfloat-equal -g -gdwarf-4 -T "fsp.ld" -Xlinker --gc-sections -L "C:\\asl\\ASL104E\\ASL104E_HUB\\ASL165_Test/script" -Wl,-Map,"ASL165_Test.map" --specs=nano.specs -o "ASL165_Test.elf" -Wl,--start-group $(OBJS) $(USER_OBJS) $(LIBS) -Wl,--end-group)
 	@echo Building target: $@ && arm-none-eabi-gcc @"ASL165_Test.elf.in"
 
 ASL165_Test.srec: ASL165_Test.elf
