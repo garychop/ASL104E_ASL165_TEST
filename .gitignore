@@ -116,6 +116,7 @@ dkms.conf
 *.idb
 *.pdb
 *.tlog
+*.jlob
 *.ipch
 *.sbd
 *.srec
