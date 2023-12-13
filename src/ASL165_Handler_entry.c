@@ -1,4 +1,5 @@
 #include "ASL165_Handler.h"
+#include "common_data.h"
 #include "./Programmer/ha_hhp_interface_bsp.h"
 
 /* ASL164_Handler entry function */
@@ -92,11 +93,9 @@ void ASL165_Handler_entry(void *pvParameters)
     vTaskDelay (5);
 
     R_BSP_PinAccessEnable();
-//    R_BSP_PinAccessDisable();    /* Protect PFS registers */
 
     while (1)
     {
-
         if (haHhpBsp_MasterRtsAsserted())
         {
             // Receive, process, and respond to the packet without fear of OS ticks in
@@ -115,7 +114,6 @@ void ASL165_Handler_entry(void *pvParameters)
                     haHhpBsp_TransmitPacket(hhp_tx_pkt_buff, hhp_tx_pkt_buff[0]);
                 }
             }
-
             //GC isrsOsTickEnable(true);
         }
 
