@@ -160,6 +160,10 @@
       <description>RA2L1-EK Board Support Files</description>
       <originalPack>Renesas.RA_board_ra2l1_ek.5.0.0.pack</originalPack>
     </component>
+    <component apiversion="" class="HAL Drivers" condition="" group="all" subgroup="r_icu" variant="" vendor="Renesas" version="5.0.0">
+      <description>External Interrupt</description>
+      <originalPack>Renesas.RA.5.0.0.pack</originalPack>
+    </component>
   </raComponentSelection>
   <raElcConfiguration/>
   <raIcuConfiguration/>
@@ -173,6 +177,15 @@
       <property id="module.driver.ioport.pincfg" value="g_bsp_pin_cfg"/>
     </module>
     <module id="module.middleware.rm_freertos_port.0"/>
+    <module id="module.driver.external_irq_on_icu.671126845">
+      <property id="module.driver.external_irq.name" value="g_external_irq0"/>
+      <property id="module.driver.external_irq.channel" value="5"/>
+      <property id="module.driver.external_irq.trigger" value="module.driver.external_irq.trigger.trig_falling"/>
+      <property id="module.driver.external_irq.filter_enable" value="module.driver.external_irq.filter_enable.false"/>
+      <property id="module.driver.external_irq.clock_source_div" value="module.driver.external_irq.clock_source_div.clock_source_div_by_64"/>
+      <property id="module.driver.external_irq.p_callback" value="HHP_MasterRTS_Interrupt"/>
+      <property id="module.driver.external_irq.ipl" value="board.icu.common.irq.priority2"/>
+    </module>
     <context id="_hal.0">
       <stack module="module.driver.ioport_on_ioport.0"/>
       <stack module="module.middleware.rm_freertos_port.0"/>
@@ -185,9 +198,13 @@
       <property id="rtos.awsfreertos.thread.context" value="NULL"/>
       <property id="rtos.awsfreertos.thread.allocation" value="rtos.awsfreertos.thread.allocation.static"/>
       <property id="rtos.awsfreertos.thread.secure_context" value="rtos.awsfreertos.thread.secure_context.enable"/>
+      <stack module="module.driver.external_irq_on_icu.671126845"/>
     </context>
     <config id="config.driver.ioport">
       <property id="config.driver.ioport.checking" value="config.driver.ioport.checking.system"/>
+    </config>
+    <config id="config.driver.icu">
+      <property id="config.driver.icu.param_checking_enable" value="config.driver.icu.param_checking_enable.bsp"/>
     </config>
     <config id="config.awsfreertos.thread">
       <property id="config.awsfreertos.custom_freertosconfig" value=""/>
@@ -288,6 +305,7 @@
     <symbolicName propertyId="p303.symbolic_name" value="PMOD2_RESET"/>
     <symbolicName propertyId="p304.symbolic_name" value="PMOD2_IO2"/>
     <symbolicName propertyId="p400.symbolic_name" value="ARDUINO_D3_MIKROBUS_PWM"/>
+    <symbolicName propertyId="p401.symbolic_name" value="HHP_RTS"/>
     <symbolicName propertyId="p402.symbolic_name" value="PMOD1_INT"/>
     <symbolicName propertyId="p407.symbolic_name" value="ARDUINO_SDA_MIKROBUS_SDA"/>
     <symbolicName propertyId="p408.symbolic_name" value="ARDUINO_SCL_MIKROBUS_SCL"/>
@@ -322,6 +340,7 @@
       <configSetting altId="iic0.scl.p408" configurationId="iic0.scl"/>
       <configSetting altId="iic0.sda.p407" configurationId="iic0.sda"/>
       <configSetting altId="iic1.pairing.b" configurationId="iic1.pairing"/>
+      <configSetting altId="irq0.mode.enabled" configurationId="irq0.mode"/>
       <configSetting altId="p000.adc0.an00" configurationId="p000"/>
       <configSetting altId="p000.gpio_mode.gpio_mode_an" configurationId="p000.gpio_mode"/>
       <configSetting altId="p001.adc0.an01" configurationId="p001"/>
@@ -396,6 +415,10 @@
       <configSetting altId="p304.gpio_mode.gpio_mode_out.low" configurationId="p304.gpio_mode"/>
       <configSetting altId="p400.gpt6.gtioca" configurationId="p400"/>
       <configSetting altId="p400.gpio_mode.gpio_mode_peripheral" configurationId="p400.gpio_mode"/>
+      <configSetting altId="p401.input" configurationId="p401"/>
+      <configSetting altId="p401.gpio_irq.gpio_irq_enabled" configurationId="p401.gpio_irq"/>
+      <configSetting altId="p401.gpio_mode.gpio_mode_in" configurationId="p401.gpio_mode"/>
+      <configSetting altId="p401.gpio_pupd.gpio_pupd_ip_up" configurationId="p401.gpio_pupd"/>
       <configSetting altId="p402.input" configurationId="p402"/>
       <configSetting altId="p402.gpio_irq.gpio_irq_enabled" configurationId="p402.gpio_irq"/>
       <configSetting altId="p402.gpio_mode.gpio_mode_in" configurationId="p402.gpio_mode"/>

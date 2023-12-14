@@ -58,6 +58,7 @@ ra/board/ra2l1_ek \
 ra/fsp/src/bsp/cmsis/Device/RENESAS/Source \
 ra/fsp/src/bsp/mcu/all \
 ra/fsp/src/bsp/mcu/ra2l1 \
+ra/fsp/src/r_icu \
 ra/fsp/src/r_ioport \
 ra/fsp/src/rm_freertos_port \
 ra_gen \

@@ -139,7 +139,7 @@ FSP Configuration
       P306 42 - - - - Disabled - - - - None - - 
       P307 41 - - - - Disabled - - - - None - - 
       P400 1 GPT6_GTIOC6A ARDUINO_D3_MIKROBUS_PWM - None "Peripheral mode" CMOS None "AGT1: AGTIO1; CAC0: CACREF; GPT6: GTIOC6A; ICU0: IRQ00; IIC0: SCL0; SCI0: SCK0; SCI1: SCK1" - IO - - 
-      P401 2 - - - - Disabled - - "CAN0: CTX0; GPT_POEG0: GTETRGA; GPT6: GTIOC6B; ICU0: IRQ05; IIC0: SDA0; SCI0: CTS0; SCI1: SDA1; SCI1: TXD1" - None - - 
+      P401 2 GPIO HHP_RTS - IRQ05 "Input mode" - "input pull-up" "CAN0: CTX0; GPT_POEG0: GTETRGA; GPT6: GTIOC6B; ICU0: IRQ05; IIC0: SDA0; SCI0: CTS0; SCI1: SDA1; SCI1: TXD1" - IO - - 
       P402 3 GPIO PMOD1_INT - IRQ04 "Input mode" - "input pull-up" "AGT0: AGTIO0; AGT1: AGTIO1; CAN0: CRX0; CTSU0: TS18; ICU0: IRQ04; SCI1: RXD1; SCI1: SCL1" - IO - - 
       P403 4 - - - - Disabled - - "AGT0: AGTIO0; AGT1: AGTIO1; CTSU0: TS17; GPT3: GTIOC3A; SCI1: CTS1" - None - - 
       P404 5 - - - - Disabled - - "GPT3: GTIOC3B" - None - - 
@@ -240,7 +240,7 @@ FSP Configuration
       P306 42 - - - - Disabled - - - - None - - 
       P307 41 - - - - Disabled - - - - None - - 
       P400 1 - ARDUINO_D3_MIKROBUS_PWM - None Disabled CMOS None "AGT1: AGTIO1; CAC0: CACREF; GPT6: GTIOC6A; ICU0: IRQ00; IIC0: SCL0; SCI0: SCK0; SCI1: SCK1" - IO - - 
-      P401 2 - - - - Disabled - - "CAN0: CTX0; GPT_POEG0: GTETRGA; GPT6: GTIOC6B; ICU0: IRQ05; IIC0: SDA0; SCI0: CTS0; SCI1: SDA1; SCI1: TXD1" - None - - 
+      P401 2 - HHP_RTS - None Disabled - None "CAN0: CTX0; GPT_POEG0: GTETRGA; GPT6: GTIOC6B; ICU0: IRQ05; IIC0: SDA0; SCI0: CTS0; SCI1: SDA1; SCI1: TXD1" - IO - - 
       P402 3 - PMOD1_INT - None Disabled - None "AGT0: AGTIO0; AGT1: AGTIO1; CAN0: CRX0; CTSU0: TS18; ICU0: IRQ04; SCI1: RXD1; SCI1: SCL1" - IO - - 
       P403 4 - - - - Disabled - - "AGT0: AGTIO0; AGT1: AGTIO1; CTSU0: TS17; GPT3: GTIOC3A; SCI1: CTS1" - None - - 
       P404 5 - - - - Disabled - - "GPT3: GTIOC3B" - None - - 
@@ -294,6 +294,9 @@ FSP Configuration
     Parameter Checking: Default (BSP)
     
   Module "FreeRTOS Port (rm_freertos_port)"
+  Module "External IRQ (r_icu)"
+    Parameter Checking: Default (BSP)
+    
   FreeRTOS
     General: Custom FreeRTOSConfig.h: 
     General: Use Preemption: Enabled
@@ -378,3 +381,12 @@ FSP Configuration
     Memory Allocation: Static
     Allocate Secure Context: Enable
     
+    Instance "g_external_irq0 External IRQ (r_icu)"
+      Name: g_external_irq0
+      Channel: 5
+      Trigger: Falling
+      Digital Filtering: Disabled
+      Digital Filtering Sample Clock (Only valid when Digital Filtering is Enabled): PCLK / 64
+      Callback: HHP_MasterRTS_Interrupt
+      Pin Interrupt Priority: Priority 2
+      

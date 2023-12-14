@@ -1,3 +1,4 @@
+#include "FreeRTOSConfig.h"
 #include "ASL165_Handler.h"
 #include "common_data.h"
 #include "./Programmer/ha_hhp_interface_bsp.h"
@@ -73,6 +74,16 @@ static void BuildHeartBeatResponsePacket(uint8_t *rxd_pkt, uint8_t *pkt_to_tx);
 
 static void BuildEnabledFeaturesResponsePacket(uint8_t *pkt_to_tx);
 
+uint8_t g_external_irq_complete = 0;
+
+//-----------------------------------------------------------------------------
+/* Called from icu_irq_isr */
+void HHP_MasterRTS_Interrupt (external_irq_callback_args_t * p_args)
+{
+    (void) p_args;
+    g_external_irq_complete = 1;
+}
+
 //-----------------------------------------------------------------------------
 // This is the HHP Interface Task.
 
@@ -86,7 +97,7 @@ void ASL165_Handler_entry(void *pvParameters)
     R_BSP_PinAccessEnable();
     R_BSP_PinCfg (ASL165_DATA, IOPORT_CFG_PORT_DIRECTION_INPUT);
     R_BSP_PinCfg (ASL165_CLK, IOPORT_CFG_PORT_DIRECTION_INPUT);
-    R_BSP_PinCfg (ASL165_RTS, IOPORT_CFG_PORT_DIRECTION_INPUT);
+//    R_BSP_PinCfg (ASL165_RTS, IOPORT_CFG_PORT_DIRECTION_INPUT);
     R_BSP_PinCfg (ASL165_CTS, IOPORT_CFG_PORT_DIRECTION_OUTPUT);
 //    R_BSP_PinAccessDisable();    /* Protect PFS registers */
 
@@ -94,33 +105,46 @@ void ASL165_Handler_entry(void *pvParameters)
 
     R_BSP_PinAccessEnable();
 
+    /* Configure the external interrupt. */
+    fsp_err_t err = R_ICU_ExternalIrqOpen(&g_external_irq0_ctrl, &g_external_irq0_cfg);
+    assert(FSP_SUCCESS == err);
+    /* Enable the external interrupt. */
+    /* Enable not required when used with ELC or DMAC. */
+    err = R_ICU_ExternalIrqEnable(&g_external_irq0_ctrl);
+    assert(FSP_SUCCESS == err);
+
     while (1)
     {
-        if (haHhpBsp_MasterRtsAsserted())
+        if (g_external_irq_complete)
+        //if (haHhpBsp_MasterRtsAsserted())
         {
-            // Receive, process, and respond to the packet without fear of OS ticks in
-            // and mucking with timing.  Note: sys tick is active, but only processes the
-            // absolute essentials.
-            //GC isrsOsTickEnable(false); // Essentially, disable interrupts.
-
-            if (haHhpBsp_ReadyToReceivePacket())
+            g_external_irq_complete = 0;
+            if (haHhpBsp_MasterRtsAsserted()) // This is really not necessary but I put this in too ensure that the ASL165 is ready.
             {
-                haHhpBsp_SlaveReadyToReceivePacket();
+                // Receive, process, and respond to the packet without fear of OS ticks in
+                // and mucking with timing.  Note: sys tick is active, but only processes the
+                // absolute essentials.
+                //GC isrsOsTickEnable(false); // Essentially, disable interrupts.
 
-                if(haHhp_RxPacket(hhp_rx_data_buff))
+                if (haHhpBsp_ReadyToReceivePacket())
                 {
-                    ProcessRxdPacket(hhp_rx_data_buff, hhp_tx_pkt_buff);
+                    haHhpBsp_SlaveReadyToReceivePacket();
 
-                    haHhpBsp_TransmitPacket(hhp_tx_pkt_buff, hhp_tx_pkt_buff[0]);
+                    if(haHhp_RxPacket(hhp_rx_data_buff))
+                    {
+                        ProcessRxdPacket(hhp_rx_data_buff, hhp_tx_pkt_buff);
+
+                        haHhpBsp_TransmitPacket(hhp_tx_pkt_buff, hhp_tx_pkt_buff[0]);
+                    }
                 }
-            }
             //GC isrsOsTickEnable(true);
+            }
         }
 
         // Need to keep the wait very short, but need to wait.
         //task_wait(MILLISECONDS_TO_TICKS(1));
 
-        vTaskDelay (1);
+        vTaskDelay (2);
     }
 }
 
